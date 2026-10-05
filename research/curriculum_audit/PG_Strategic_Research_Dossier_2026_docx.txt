@@ -1,0 +1,434 @@
+[P5 | Normal] STRATEGIC RESEARCH DOSSIER
+[P6 | Normal] บริษัท ประชาอาภรณ์ จำกัด (มหาชน)
+[P7 | Normal] People’s Garment Public Company Limited (PG)
+[P8 | Normal] Focused Turnaround + Functional Uniform & Workwear Solutions
+[P9 | Normal] ฐานข้อมูลเพื่อปรับ EFAS • IFAS • SFAS • TOWS • Strategic Alternatives • Action Plan
+[P10 | Normal] ข้อมูล ณ 31 สิงหาคม 2569
+[P11 | Normal] จัดทำจากเอกสารบริษัท หน่วยงานรัฐ กฎระเบียบ EU และข้อมูลคู่แข่งสาธารณะ
+[P13 | Normal] สารบัญ
+[P14 | toc 1] 1. ขอบเขต วิธีวิจัย และหลักการตีความ	4
+[P15 | toc 1] 2. สถานการณ์ปัจจุบันของบริษัท	4
+[P16 | toc 2] 2.1 ประวัติและโครงสร้างธุรกิจ	4
+[P17 | toc 2] 2.2 วิสัยทัศน์ พันธกิจ และเป้าหมายเดิม	5
+[P18 | toc 2] 2.3 รายได้ ผลิตภัณฑ์ ตลาด และลูกค้า	5
+[P19 | toc 2] 2.4 ทรัพยากรและการดำเนินงาน	5
+[P20 | toc 2] 2.5 การวิเคราะห์ผลการเงินที่ถูกต้อง	6
+[P21 | toc 2] 2.6 ภาพล่าสุดครึ่งแรกปี 2569	7
+[P22 | toc 1] 3. การวิเคราะห์สภาพแวดล้อมภายนอก	8
+[P23 | toc 2] 3.1 STEEP	8
+[P24 | toc 2] 3.2 Five Forces	8
+[P25 | toc 2] 3.3 โอกาสและอุปสรรคหลัก	9
+[P26 | toc 1] 4. ภูมิทัศน์คู่แข่ง	9
+[P27 | toc 2] 4.1 สนามที่ 1: Export OEM/ODM และ Sportswear Manufacturing	9
+[P28 | toc 2] 4.2 สนามที่ 2: แบรนด์ในประเทศ ช่องทาง และ Project Sales	9
+[P29 | toc 2] 4.3 ตารางเปรียบเทียบเชิงกลยุทธ์	10
+[P30 | toc 1] 5. การวิเคราะห์ภายใน	10
+[P31 | toc 2] 5.1 Resource/Capability และ VRIO	10
+[P32 | toc 2] 5.2 ความสามารถหลักและความได้เปรียบที่ “ควรสร้าง”	11
+[P33 | toc 1] 6. EFAS ที่เสนอ	11
+[P34 | toc 1] 7. IFAS ที่เสนอ	12
+[P35 | toc 1] 8. SFAS ที่เสนอ	12
+[P36 | toc 1] 9. TOWS Matrix	13
+[P37 | toc 2] SO — ใช้จุดแข็งคว้าโอกาส	13
+[P38 | toc 2] ST — ใช้จุดแข็งลดภัยคุกคาม	13
+[P39 | toc 2] WO — ใช้โอกาสแก้จุดอ่อน	14
+[P40 | toc 2] WT — ลดจุดอ่อนและหลีกเลี่ยงภัยคุกคาม	14
+[P41 | toc 1] 10. ทางเลือกเชิงกลยุทธ์	14
+[P42 | toc 2] ทางเลือก A: Volume-led Export OEM	14
+[P43 | toc 2] ทางเลือก B: Own-brand D2C Omnichannel	14
+[P44 | toc 2] ทางเลือก C: Focused Functional Uniform & Workwear Solutions	14
+[P45 | toc 2] เกณฑ์เลือกทางเลือก	14
+[P46 | toc 1] 11. กลยุทธ์ที่แนะนำ	15
+[P47 | toc 2] 11.1 Strategic Issue	15
+[P48 | toc 2] 11.2 Strategic Choice	15
+[P49 | toc 2] 11.3 ระดับกลยุทธ์	16
+[P50 | toc 1] 12. ทบทวน Vision, Mission และ Objectives	16
+[P51 | toc 1] 13. แผนปฏิบัติการ	17
+[P52 | toc 1] 14. Balanced Scorecard และการควบคุม	18
+[P53 | toc 1] 15. ฉากทัศน์ผลการดำเนินงาน	19
+[P54 | toc 1] 16. ความเสี่ยงของกลยุทธ์และแผนลดความเสี่ยง	19
+[P55 | toc 1] 17. สิ่งที่ต้องแก้ในรายงานกลุ่มเดิมทันที	20
+[P56 | toc 1] 18. สิ่งที่ยังต้องขอจากบริษัท/ผู้บริหารก่อนทำ Full Report	20
+[P57 | toc 1] 19. ข้อจำกัดและสมมติฐาน	20
+[P58 | toc 1] 20. แหล่งข้อมูลหลัก	21
+[P59 | toc 1] 21. Claim-to-Source Ledger	22
+[P62 | Normal] สถานะข้อมูล: 31 สิงหาคม 2569 วัตถุประสงค์: เป็นฐานข้อเท็จจริงและตรรกะสำหรับปรับรายงาน Strategy Management ตั้งแต่สถานการณ์ปัจจุบัน, EFAS, IFAS, SFAS, TOWS, ทางเลือกเชิงกลยุทธ์ ไปจนถึงแผนปฏิบัติการและการประเมินผล กรอบอ้างอิง: โครงสร้างรายงานบริษัทเถ้าแก่น้อยและบทเรียนทั้ง 12 บท โดยยึดหลักว่า “ข้อเสนอเชิงกลยุทธ์ต้องเกิดจากปัจจัยที่พิสูจน์ได้ เลือกทางหนึ่งอย่างชัดเจน และเชื่อมต่อถึงงบประมาณ ผู้รับผิดชอบ KPI และผลการเงิน”
+[P63 | Normal] คำตอบสั้น: PG ไม่ควรเลือกแข่งแบบ OEM ปริมาณมากและราคาต่ำกับโรงงานระดับภูมิภาค และยังไม่ควรทุ่มสร้างแบรนด์แฟชั่น D2C เต็มรูปแบบ ทิศทางที่เหมาะที่สุดคือ Focused Turnaround + Concentrated Growth: ฟื้นกำไรจากธุรกิจหลักพร้อมโฟกัส “Functional & Sustainable Uniform Solutions” สำหรับองค์กร โรงพยาบาล งานบริการ และอุตสาหกรรม โดยใช้ความสามารถด้านออกแบบ-ผ้า-ตัดเย็บ มาตรฐานสิ่งแวดล้อม เครือสหพัฒน์ และฐานะการเงินที่แข็งแรงเป็นตัวเร่ง
+[P64 | Heading 1] 1. ขอบเขต วิธีวิจัย และหลักการตีความ
+[P65 | Normal] งานนี้ใช้ข้อมูลปฐมภูมิเป็นหลัก ได้แก่ One Report 2568, งบการเงิน, คำชี้แจงผลประกอบการไตรมาส 1–2/2569, เว็บไซต์บริษัท, เว็บไซต์ผู้ถือหุ้นใหญ่, หน่วยงานรัฐไทย, สหภาพยุโรป และเว็บไซต์/รายงานของคู่แข่ง จากนั้นจึงใช้ข้อมูลทุติยภูมิเพื่อเสริมเฉพาะจุดที่ข้อมูลปฐมภูมิไม่เพียงพอ
+[P66 | Normal] หลักการสำคัญในการสร้างเมทริกซ์มีดังนี้
+[P67 | List Bullet] Opportunity/Threat ต้องเป็นสิ่งที่อยู่นอกการควบคุมของ PG
+[P68 | List Bullet] Strength/Weakness ต้องเป็นทรัพยากร ความสามารถ กระบวนการ ผลลัพธ์ หรือข้อจำกัดภายใน PG
+[P69 | List Bullet] Rating ใน EFAS/IFAS/SFAS สะท้อนคุณภาพการตอบสนองของบริษัท ไม่ใช่ความสำคัญของปัจจัย; ความสำคัญอยู่ใน Weight
+[P70 | List Bullet] Rating ใช้มาตราส่วน 1–5: 1 = ตอบสนองแย่มาก, 3 = ปานกลาง, 5 = ดีเด่น
+[P71 | List Bullet] ตัวเลขคะแนนเป็น “ข้อเสนอสำหรับการอภิปรายของกลุ่ม” ไม่ใช่ข้อเท็จจริงจากบริษัท จึงควรให้สมาชิกกลุ่มทบทวนและเห็นพ้องก่อนส่ง
+[P72 | List Bullet] คู่แข่งต้องแยกตามสนามแข่งขัน เพราะโรงงาน OEM, แบรนด์แฟชั่น และผู้ขายโครงการ/เครื่องแบบมีโมเดลธุรกิจต่างกัน
+[P73 | Heading 1] 2. สถานการณ์ปัจจุบันของบริษัท
+[P74 | Heading 2] 2.1 ประวัติและโครงสร้างธุรกิจ
+[P75 | Normal] PG ก่อตั้งเมื่อ 30 มกราคม 2523 และจดทะเบียนในตลาดหลักทรัพย์เมื่อ 29 กันยายน 2531 ธุรกิจเริ่มจากการผลิตเสื้อผ้าสำเร็จรูป ก่อนขยายไปสู่การผลิตผ้าถัก บริษัทมีสำนักงานใหญ่กรุงเทพฯ โรงงานผลิตเสื้อผ้าและชุดว่ายน้ำที่ลำพูน และโรงงานผ้าถัก/เสื้อผ้าที่กบินทร์บุรี จังหวัดปราจีนบุรี [S1]
+[P76 | Normal] ผลิตภัณฑ์ประกอบด้วยเสื้อผ้าบุรุษและสตรี ชุดกีฬา ชุดว่ายน้ำ ชุดชั้นในชาย เครื่องแบบองค์กร ชุดทำงาน ชุดทางการแพทย์/สครับ ผ้าถัก และงาน OEM/ODM บริษัทผลิตภายใต้แบรนด์ที่ได้รับสิทธิและ House Brand รวมถึง ARROW และทำงานร่วมกับ I.C.C. International ในการจำหน่ายภายในประเทศ [S1][S5]
+[P77 | Normal] ปลายปี 2567 โครงสร้างการควบคุมเปลี่ยนอย่างมีนัยสำคัญ เมื่อ Saha Pathana Inter-Holding (SPI) เข้าซื้อหุ้นผ่าน Big Lot และทำคำเสนอซื้อหลักทรัพย์ทั้งหมด ปัจจุบัน SPI ถือหุ้น 46.998% และเป็นผู้ถือหุ้นใหญ่ โดย SPI ระบุว่าต้องการร่วมพัฒนาแผนธุรกิจให้ PG ใช้ศักยภาพและทรัพย์สินได้เต็มที่ รวมถึงผลักดันการลงทุนใหม่ต่อยอดจากธุรกิจเดิม [S6][S7]
+[P78 | Heading 2] 2.2 วิสัยทัศน์ พันธกิจ และเป้าหมายเดิม
+[P79 | Normal] วิสัยทัศน์ของ PG คือการเป็นผู้นำในการสร้างสรรค์ผลิตภัณฑ์และบริการคุณภาพด้วยนวัตกรรมเครื่องนุ่งห่มในประเทศไทย พันธกิจครอบคลุมการออกแบบ/ผลิตเสื้อผ้าคุณภาพ การพัฒนานวัตกรรม การเป็น One Stop Service สำหรับผลิตภัณฑ์บุรุษ การเติบโตของรายได้และกำไร การพัฒนาพนักงาน การสร้างผลตอบแทน และความรับผิดชอบต่อสังคม/สิ่งแวดล้อม บริษัทตั้งเป้าระยะยาวให้รายได้เติบโตเฉลี่ย 4–5% ต่อปีในช่วง 2568–2572 [S1]
+[P80 | Normal] ข้อสังเกตเชิงกลยุทธ์คือ วิสัยทัศน์กว้างและไม่ระบุกลุ่มลูกค้า คุณค่าที่แตกต่าง หรือขอบเขตธุรกิจที่ต้องชนะ ส่วนพันธกิจ “One Stop Service for men’s products” ไม่สอดคล้องเต็มที่กับทิศทางใหม่ที่บริษัทกำลังขยายเครื่องแบบและชุดทางการแพทย์
+[P81 | Heading 2] 2.3 รายได้ ผลิตภัณฑ์ ตลาด และลูกค้า
+[P82 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P83 | Normal] ยอดขาย 96%–97% มาจากเสื้อผ้า ส่วนผ้าถักเป็นสัดส่วนเล็ก ในปี 2568 ยอดขายทั้งตลาดในประเทศและต่างประเทศลดลง ตลาดในประเทศถูกกระทบจากการเปลี่ยนนโยบายการจัดซื้อของลูกค้าหลัก ขณะที่ตลาดส่งออกได้รับผลจากคำสั่งซื้อที่ชะลอและความไม่แน่นอนด้านภาษีการค้า [S1][S4]
+[P84 | Normal] I.C.C. International เป็นทั้งผู้ถือหุ้น ลูกค้าหลัก และผู้จัดจำหน่าย คำสั่งซื้อจาก I.C.C. คิดเป็น 56.13% ของยอดขายในประเทศ และ 40.12% ของยอดขายรวมในปี 2568 นี่คือความเสี่ยงด้านการกระจุกตัวที่บริษัทเปิดเผยเอง [S1]
+[P85 | Normal] คำว่า “ลูกค้าหลัก + กลุ่ม Uniform + OEM/ODM คิดเป็น 66% ของยอดขาย” ใน One Report ไม่ควรถูกเขียนว่า I.C.C. รายเดียวคิดเป็น 66% เพราะเป็นการรวมลูกค้าหลายกลุ่ม [S1]
+[P86 | Heading 2] 2.4 ทรัพยากรและการดำเนินงาน
+[P87 | Normal] PG มีขีดความสามารถตั้งแต่การออกแบบ การผลิตผ้าถัก การสร้างแพตเทิร์น การทำตัวอย่าง ไปจนถึงตัดเย็บเสื้อผ้าสำเร็จรูป จึงมีพื้นฐานของ ODM และการเป็น One Stop Service จุดแข็งด้านมาตรฐานประกอบด้วย ISO 9001, ISO 14001, Global Recycled Standard (GRS), Cool Mode, ฉลากประหยัดไฟเบอร์ 5 และการควบคุมสารเคมีตามแนวทาง REACH/Oeko-Tex ผ่านคู่ค้า [S1]
+[P88 | Normal] บริษัทมีวัสดุและผลิตภัณฑ์เชิงฟังก์ชัน เช่น recycled polyester/upcycling, SORONA, DRY TECH, เสื้อ Cool Mode, เสื้อประหยัดพลังงาน และชุดสครับที่พัฒนาเรื่องการยับยั้งแบคทีเรีย ความสบาย และการเคลื่อนไหว [S1][S5]
+[P89 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P90 | Normal] กำลังการผลิตดังกล่าวรวมกำลังผลิตของผู้รับจ้างผลิต โดยเฉพาะชุดชั้นในที่ใช้การจ้างผลิตทั้งหมด จึงไม่ควรตีความว่าเป็นกำลังผลิตในโรงงานของ PG ทั้งหมด [S1]
+[P91 | Normal] ปี 2568 บริษัทมีคู่ค้า 222 ราย แบ่งเป็นในประเทศ 77% และต่างประเทศ 23% ไม่มีผู้ขายวัตถุดิบรายใดเกิน 10% ของยอดจัดซื้อ จึงมีอำนาจต่อรองและการกระจายความเสี่ยงด้านซัพพลายเออร์ค่อนข้างดี [S1]
+[P92 | Heading 2] 2.5 การวิเคราะห์ผลการเงินที่ถูกต้อง
+[P93 | Normal] ตัวเลขรายได้ระดับ 5,000 ล้านบาทและกำไรหลายร้อยล้านบาทในรายงานกลุ่มเดิมไม่ใช่งบเฉพาะของ PG และต้องนำออกทั้งหมด ฐานที่ถูกต้องมีดังนี้ [S1][S2]
+[P94 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P96 | Table Source] ภาพ: ยอดขาย กำไรสุทธิ และผลจากธุรกิจหลักโดยประมาณของ PG ปี 2566–2568
+[P97 | Normal] *คำนวณเพื่อวิเคราะห์จากกำไรขั้นต้นลบค่าใช้จ่ายขายและบริหาร ไม่ใช่บรรทัดทางบัญชีที่บริษัทเปิดเผยโดยตรง
+[P98 | Normal] ข้อวินิจฉัยสำคัญ:
+[P99 | List Bullet] ธุรกิจผลิตและขายเสื้อผ้าไม่สามารถครอบคลุมค่าใช้จ่ายขายและบริหารได้ต่อเนื่องอย่างน้อยสามปี แม้กำไรสุทธิปี 2566 เป็นบวก
+[P100 | List Bullet] ค่าใช้จ่ายขายและบริหารคิดเป็น 29.42% ของยอดขายปี 2568 สูงกว่าอัตรากำไรขั้นต้น 21.40%
+[P101 | List Bullet] สินค้าคงเหลือ 337.11 ล้านบาท คิดเป็น 22.30% ของสินทรัพย์รวม หมุนเพียง 1.99 รอบ หรือประมาณ 184 วัน เสี่ยงล้าสมัยและกินเงินทุนหมุนเวียน
+[P102 | List Bullet] บริษัทมีสภาพคล่องสูง Current Ratio 10.71 เท่า และ D/E 0.11 เท่า แต่ ROE -0.40% สะท้อนว่า “มีทรัพย์สินมากแต่สร้างผลตอบแทนต่ำ”
+[P103 | List Bullet] สินทรัพย์ทางการเงินระยะสั้นและระยะยาวรวมกันมีมูลค่าสูงกว่า 800 ล้านบาทโดยประมาณ ขณะที่ธุรกิจหลักขาดทุนเชิงปฏิบัติการ จึงมีโจทย์การจัดสรรทุนที่ชัดเจน
+[P104 | Heading 2] 2.6 ภาพล่าสุดครึ่งแรกปี 2569
+[P105 | Normal] ครึ่งแรกปี 2569 ยอดขาย 285.05 ล้านบาท ลด 2.62% YoY แต่บริษัทมีกำไรสุทธิ 17.92 ล้านบาท เทียบกับขาดทุน 19.27 ล้านบาทในปีก่อน การฟื้นตัวมาจากการลดค่าใช้จ่ายขายและบริหาร 15.88 ล้านบาท รายได้เงินปันผล/รายได้อื่น และกำไรตีมูลค่าเงินลงทุน 7.36 ล้านบาท ขณะที่กำไรขั้นต้น 59.35 ล้านบาทยังต่ำกว่าค่าใช้จ่ายขายและบริหาร 76.21 ล้านบาท [S3][S4]
+[P106 | Normal] ดังนั้นข้อความที่ถูกต้องคือ “กำไรสุทธิฟื้น แต่ธุรกิจหลักยังไม่ฟื้นเต็มที่” ไม่ใช่ “บริษัทกลับมาเติบโตแล้ว”
+[P107 | Heading 1] 3. การวิเคราะห์สภาพแวดล้อมภายนอก
+[P108 | Heading 2] 3.1 STEEP
+[P109 | Normal] Social — ผู้บริโภคต้องการความสบาย สุขภาพ ความปลอดภัย ความยั่งยืน และความคุ้มค่ามากขึ้น ขณะเดียวกันกำลังซื้อในประเทศอ่อนแอและผู้บริโภคเข้าถึงเสื้อผ้านำเข้าราคาต่ำผ่านออนไลน์ได้ง่าย โอกาสจึงอยู่ในสินค้าที่มีประโยชน์พิสูจน์ได้ ไม่ใช่แฟชั่นทั่วไปที่แข่งขันด้วยราคา [S1][S8][S9]
+[P110 | Normal] Technological — คู่แข่งระดับภูมิภาคใช้ automation, digital planning, IoT, PLM, MES, AI และ on-demand/customization เพื่อเพิ่มความเร็ว ลดล็อต และยกระดับ traceability สำหรับ PG เทคโนโลยีต้องถูกผูกกับ use case ที่ทำกำไร เช่น digital sample, costing, production scheduling, B2B reorder และ product passport ไม่ใช่ลงทุนเครื่องจักรเพราะเป็น “เทรนด์” [S13][S14][S15]
+[P111 | Normal] Economic — สำนักงานเศรษฐกิจอุตสาหกรรมคาดว่าการส่งออกเสื้อผ้าสำเร็จรูปของไทยปี 2568 ขยายตัว 5.61% โดยเฉพาะกีฬา โปโล เด็กอ่อน และชุดชั้นใน แต่ยอดขาย PG กลับลด 21.80% แสดงว่าปัญหาไม่ได้มาจากอุตสาหกรรมอย่างเดียว แต่มีส่วนจาก portfolio ลูกค้าและความสามารถเชิงพาณิชย์ของบริษัท [S8]
+[P112 | Normal] Environmental — ตลาด EU กำลังผลักดันสินค้าให้ทนทาน ซ่อมได้ รีไซเคิลได้ มี recycled content ลดสารอันตราย และมีข้อมูล Digital Product Passport บริษัทที่มี GRS, ISO 14001, recycled material และข้อมูลย้อนกลับได้จะมีโอกาสเปลี่ยน compliance ให้เป็น value proposition [S10][S11]
+[P113 | Normal] Political/Legal — ความไม่แน่นอนจากภาษีสหรัฐฯ ค่าเงินบาท และสงครามการค้าทำให้คำสั่งซื้อเลื่อนหรือย้ายประเทศ ขณะเดียวกัน EU Forced Labour Regulation จะใช้จริง 14 ธันวาคม 2570 และให้ความสำคัญกับ supply-chain due diligence โดยสิ่งทอเป็นหนึ่งในอุตสาหกรรมเสี่ยง [S12]
+[P114 | Normal] ข้อแก้ไขสำคัญ: CBAM ปัจจุบันครอบคลุมซีเมนต์ เหล็กและเหล็กกล้า อะลูมิเนียม ปุ๋ย ไฟฟ้า และไฮโดรเจน ไม่ได้ครอบคลุมเครื่องนุ่งห่มโดยตรง การใส่ “CBAM ทำให้เสื้อผ้า PG เสียภาษีโดยตรง” เป็น Threat จึงไม่ถูกต้อง ควรเปลี่ยนเป็นกฎ circularity, ecodesign, product information, forced labour และข้อกำหนดของผู้ซื้อ [S18]
+[P115 | Heading 2] 3.2 Five Forces
+[P116 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P117 | Normal] สรุป: อุตสาหกรรม “OEM ทั่วไป” ไม่น่าดึงดูดสำหรับ PG แต่ช่องว่างที่มีมาตรฐานสูง ต้องปรับแต่ง มีล็อตย่อย ต้องส่งมอบสม่ำเสมอ และต้องพิสูจน์ผลด้านสิ่งแวดล้อมยังมีโอกาส
+[P118 | Heading 2] 3.3 โอกาสและอุปสรรคหลัก
+[P119 | Normal] โอกาสที่มีน้ำหนักมากที่สุดคือ functional/medical/sustainable textiles ไม่ใช่เพราะเป็นคำยอดนิยม แต่เพราะ PG มีผ้าถัก ผลิตภัณฑ์ Cool Mode/GRS/SORONA/DRY TECH ชุดสครับ ลูกค้าองค์กร และโครงสร้าง ODM อยู่แล้ว ข้อมูล DITP เรื่อง Recovery Wear ในญี่ปุ่นยังสนับสนุนว่าผู้ผลิตไทยสามารถขยับจากฐานผลิตราคาต่ำไปสู่ผู้พัฒนาวัสดุ/ผลิตภัณฑ์มูลค่าสูงได้ หากมีคุณภาพ มาตรฐาน และ R&D รองรับ [S9]
+[P120 | Normal] อุปสรรคที่มีน้ำหนักมากที่สุดคือการแข่งขันต้นทุนต่ำ บวกกับอำนาจต่อรองของผู้ซื้อและการกระจุกตัวของลูกค้า หาก PG ตอบด้วยการเพิ่มปริมาณ OEM ทั่วไป จะเข้าสู่สนามที่เสียเปรียบเชิงโครงสร้าง
+[P121 | Heading 1] 4. ภูมิทัศน์คู่แข่ง
+[P122 | Heading 2] 4.1 สนามที่ 1: Export OEM/ODM และ Sportswear Manufacturing
+[P123 | Normal] Nice Group Holding / Nice Apparel เป็น benchmark ด้าน scale: 16 โรงงานใน 4 ประเทศ พนักงานมากกว่า 23,000 คน กำลังผลิตมากกว่า 72 ล้านชิ้นต่อปี และรายได้ปี 2568 มากกว่า 17,481 ล้านบาท เทียบกับยอดขาย PG 605 ล้านบาทและกำลังผลิตรวม 2.712 ล้านชิ้น Nice ลงทุนด้าน automation, advanced manufacturing และ supply-chain flexibility [S13]
+[P124 | Normal] Hi-Tech Apparel มีพนักงานมากกว่า 14,000 คน ฐานผลิตในไทย กัมพูชา เวียดนาม ลาว และอียิปต์ ผลิตมากกว่า 40 ล้านชิ้นต่อปี เน้น sportswear/team sports/activewear มี garment engineering, digital factory และ custom/on-demand platform จุดแข็งคือ scale + technology + multi-country origin [S14]
+[P125 | Normal] VT Garment มีฐานไทยและเมียนมา พนักงานราว 3,000 คน เน้น sportswear, outerwear, protective equipment และงานเทคนิค มี Fair Trade, Higg FEM, GRS, LEED และใช้ AI/Industry 4.0 เป็น benchmark ที่ใกล้กับ “focused differentiation” มากกว่าการแข่ง scale ล้วน [S15]
+[P126 | Normal] ข้อสรุปสนามนี้: PG ไม่สามารถชนะด้วยต้นทุนต่อชิ้นหรือกำลังผลิต แต่ยังสามารถชนะเป็น niche supplier ที่ตอบสนองเร็ว ล็อตเล็ก งานซับซ้อน ตรวจสอบย้อนกลับ และใช้บริการ design-to-delivery ได้
+[P127 | Heading 2] 4.2 สนามที่ 2: แบรนด์ในประเทศ ช่องทาง และ Project Sales
+[P128 | Normal] Warrix แข่งโดยตรงใน sportswear และการขายโครงการให้องค์กร สโมสร และหน่วยงาน รายได้จากการขายและบริการปี 2568 อยู่ที่ 1,701.44 ล้านบาท สูงกว่า PG เกือบสามเท่า มีแบรนด์ ช่องทาง retail/online และฐาน project-based ที่ชัด [S16]
+[P129 | Normal] Sabina เป็น benchmark ด้านแบรนด์ชุดชั้นในและ OEM ปี 2568 มีรายได้รวม 3,338.88 ล้านบาท กำไรสุทธิ 410.76 ล้านบาท อัตรากำไรขั้นต้น 51.47% และรายได้ OEM 293.84 ล้านบาท เพิ่ม 50.32% จุดเด่นคือ brand margin, lean management และความเชื่อถือด้าน ESG [S17]
+[P130 | Normal] MC Group เป็น benchmark ด้าน own-brand omnichannel ไม่ใช่คู่แข่ง OEM โดยตรง ปีบัญชี 2568 มียอดขาย 4,152 ล้านบาท อัตรากำไรขั้นต้น 63.9% กำไรสุทธิ 760 ล้านบาท และ online 17% ของยอดขาย [S19]
+[P131 | Normal] ข้อสรุปสนามนี้: การทำ D2C/House Brand ต้องใช้แบรนด์ ข้อมูลลูกค้า ช่องทาง และงบการตลาดจำนวนมาก การยก e-commerce เป็นคำตอบหลักของ PG โดยไม่คำนึงถึงบทบาท I.C.C. และ economics ของ inventory จึงเสี่ยง
+[P132 | Heading 2] 4.3 ตารางเปรียบเทียบเชิงกลยุทธ์
+[P133 | Normal] คะแนน 1–5 ด้านล่างเป็นการประเมินของผู้วิเคราะห์จากหลักฐานสาธารณะ ไม่ใช่คะแนนที่บริษัทประกาศ
+[P134 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P135 | Normal] “ช่องว่างที่ควรชนะ” ของ PG จึงอยู่ตรงจุดตัดระหว่าง functional textile + sustainable proof + uniform/project service + Saha ecosystem ไม่ใช่ scale OEM หรือ mass D2C
+[P136 | Heading 1] 5. การวิเคราะห์ภายใน
+[P137 | Heading 2] 5.1 Resource/Capability และ VRIO
+[P138 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P139 | Heading 2] 5.2 ความสามารถหลักและความได้เปรียบที่ “ควรสร้าง”
+[P140 | Normal] ความสามารถหลักปัจจุบันไม่ใช่ “มีสินค้าหลากหลาย” เพราะความหลากหลายโดยไม่มีผลกำไรอาจเป็นภาระ แต่คือความสามารถบูรณาการวัสดุ ฟังก์ชัน ออกแบบ คุณภาพ และการผลิตสำหรับลูกค้า B2B ความได้เปรียบที่ควรสร้างเพิ่มคือ
+[P141 | Normal] 1.  ออกแบบโซลูชันเครื่องแบบตามงานจริง ไม่ใช่ขายเสื้อเป็นชิ้น
+[P142 | Normal] 2.  แสดงหลักฐาน performance และ sustainability ระดับ SKU/lot
+[P143 | Normal] 3.  ทำ replenishment และ contract service ที่ลดภาระ stock ของลูกค้า
+[P144 | Normal] 4.  คิดต้นทุนและกำไรระดับลูกค้า/SKU ก่อนรับงาน
+[P145 | Normal] 5.  ใช้เครือสหพัฒน์เป็นช่องทาง pilot และ reference account
+[P146 | Heading 1] 6. EFAS ที่เสนอ
+[P147 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P148 | Heading 1] 7. IFAS ที่เสนอ
+[P149 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P150 | Heading 1] 8. SFAS ที่เสนอ
+[P151 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P152 | Heading 1] 9. TOWS Matrix
+[P153 | Heading 2] SO — ใช้จุดแข็งคว้าโอกาส
+[P154 | List Bullet] S2+S3+O1: สร้าง “PG Functional Uniform Solutions” สำหรับโรงพยาบาล โรงแรม อาหาร อุตสาหกรรม สถาบันการเงิน และองค์กรในเครือ โดยขายผลลัพธ์ด้านความสบาย ความปลอดภัย อายุใช้งาน และ environmental proof
+[P155 | List Bullet] S1+S2+O2: ลงทุนเฉพาะ digital sampling, material test, traceability, costing และ semi-automation ที่ช่วยยกระดับ margin/lead time
+[P156 | Heading 2] ST — ใช้จุดแข็งลดภัยคุกคาม
+[P157 | List Bullet] S2+S3+T1: เลิกแข่งขันด้วยราคาต่อชิ้นในงาน commodity และใช้ focused differentiation: complex specification, small batch, reliable replenishment, quality, compliance
+[P158 | List Bullet] S1+S3+T2: กระจายลูกค้า ใช้สัญญาระยะยาว/price-adjustment clause, natural hedge และเครือข่าย SPI เพื่อลดความผันผวน
+[P159 | Heading 2] WO — ใช้โอกาสแก้จุดอ่อน
+[P160 | List Bullet] W1+W3+O1: ทำ customer/SKU profitability และย้ายทรัพยากรจากสินค้ากำไรต่ำไปยังเครื่องแบบ/สครับ/functional ODM ที่มี margin สูงกว่า
+[P161 | List Bullet] W2+O1: ตั้งทีมขาย B2B โดยตรงและ dealer เฉพาะ healthcare/industrial เพื่อให้ลูกค้ารายใหญ่ที่สุดลดเหลือไม่เกิน 30% ของยอดขายภายในปี 2572
+[P162 | Heading 2] WT — ลดจุดอ่อนและหลีกเลี่ยงภัยคุกคาม
+[P163 | List Bullet] W1+W4+T2: ใช้ S&OP, make-to-order, MOQ discipline และ reorder contract ลด inventory days
+[P164 | List Bullet] W3+T1: outsource งานมาตรฐาน/ราคาต่ำ และเก็บงาน design, functional fabric, sample, QC และ complex sewing ที่สร้างคุณค่าไว้ภายใน
+[P165 | Heading 1] 10. ทางเลือกเชิงกลยุทธ์
+[P166 | Heading 2] ทางเลือก A: Volume-led Export OEM
+[P167 | Normal] ลงทุน automation และเพิ่มกำลังผลิตเพื่อไล่ปริมาณส่งออก กลยุทธ์ระดับองค์กรเป็น concentrated growth ใน export OEM และระดับธุรกิจเป็น cost leadership
+[P168 | Normal] ข้อดี: ใช้ฐานโรงงานเดิมและตลาดส่งออกไทยบางหมวดยังเติบโต ข้อเสีย: PG เสียเปรียบ scale, multi-country footprint, labor cost และ buyer power อย่างมาก ต้องใช้ capex สูงและ margin ต่ำ
+[P169 | Heading 2] ทางเลือก B: Own-brand D2C Omnichannel
+[P170 | Normal] ลงทุน ARROW/House Brand, marketplace, TikTok, pop-up และข้อมูลลูกค้า กลยุทธ์ระดับองค์กรเป็น forward integration และระดับธุรกิจเป็น differentiation
+[P171 | Normal] ข้อดี: มีโอกาสเพิ่ม gross margin และควบคุมลูกค้า ข้อเสีย: ต้องใช้ marketing capability สูง เพิ่ม inventory risk และอาจทับซ้อน/ขัดกับบทบาท I.C.C.; PG ยังไม่มีหลักฐาน brand pull เทียบ Warrix, Sabina หรือ MC
+[P172 | Heading 2] ทางเลือก C: Focused Functional Uniform & Workwear Solutions
+[P173 | Normal] ฟื้นกำไรด้วย portfolio discipline พร้อมโฟกัส B2B functional/sustainable uniform, workwear, medical scrub และ selected high-value ODM ระดับองค์กรเป็น turnaround/retrenchment ควบคู่ concentrated growth ระดับธุรกิจเป็น focused differentiation
+[P174 | Normal] ข้อดี: ใช้ทรัพยากรที่มีจริง ลดการแข่งราคา ลด inventory ผ่าน contract/replenishment และใช้เครือสหพัฒน์เป็น pilot/reference ข้อเสีย: รอบขาย B2B ยาว ต้องสร้าง sales engineering, test evidence และระบบประมูล/contract management
+[P175 | Heading 2] เกณฑ์เลือกทางเลือก
+[P176 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P177 | Normal] คำแนะนำ: เลือก C เป็นกลยุทธ์หลัก ใช้ B เพียงเป็นช่องทางสนับสนุนสำหรับ pilot/lead generation และใช้ automation จาก A เฉพาะจุดที่มี business case ไม่ใช่ขยายกำลังผลิตล่วงหน้า
+[P178 | Heading 1] 11. กลยุทธ์ที่แนะนำ
+[P179 | Heading 2] 11.1 Strategic Issue
+[P180 | Normal] “PG มีฐานะการเงิน มาตรฐาน เครือข่าย และความสามารถผลิตครบวงจร แต่ธุรกิจเสื้อผ้าหลักไม่สามารถสร้างกำไรเพียงพอ เพราะ portfolio กว้าง ค่าใช้จ่ายสูง ลูกค้ากระจุกตัว และต้องแข่งขันในตลาดที่ผู้ซื้อมีอำนาจสูง บริษัทจึงต้องเลือกสนามที่สร้างมูลค่าได้มากกว่าต้นทุน พร้อมจัดสรรทุนและองค์กรใหม่”
+[P181 | Heading 2] 11.2 Strategic Choice
+[P182 | Normal] PG Functional Workwear Platform 2570–2572 จากผู้รับผลิตเสื้อผ้าหลากหลาย → ผู้ให้บริการออกแบบ ผลิต ส่งมอบ เติมสินค้า และให้หลักฐานด้าน performance/sustainability สำหรับเครื่องแบบที่มีภารกิจเฉพาะ
+[P183 | Normal] กลุ่มเป้าหมายหลัก:
+[P184 | Normal] 1.  Healthcare & wellness: โรงพยาบาล คลินิก ห้องปฏิบัติการ ร้านความงาม และศูนย์ดูแลผู้สูงอายุ
+[P185 | Normal] 2.  Hospitality & service: โรงแรม ร้านอาหาร สายการบิน/ขนส่ง และบริการที่ต้องการภาพลักษณ์ + comfort
+[P186 | Normal] 3.  Industrial & corporate: โรงงาน สำนักงาน สถาบันการเงิน รัฐวิสาหกิจ และองค์กรในเครือสหพัฒน์
+[P187 | Normal] 4.  Selected export ODM: sports/recovery/functional apparel ที่มี specification สูง ล็อตยืดหยุ่น และต้องการ traceability
+[P188 | Normal] Value proposition:
+[P189 | List Bullet] Design-to-delivery one stop service
+[P190 | List Bullet] Functional performance ที่มี test/spec ชัด
+[P191 | List Bullet] Sustainable material และ traceability ระดับ SKU/lot
+[P192 | List Bullet] Flexible MOQ และ replenishment ตามสัญญา
+[P193 | List Bullet] Reliable quality/lead time พร้อม after-sales service
+[P194 | Heading 2] 11.3 ระดับกลยุทธ์
+[P195 | Normal] Corporate Strategy: Turnaround/Retrenchment + Concentrated Growth — ตัด/ลดธุรกิจ ลูกค้า หรือ SKU ที่ไม่ผ่านเกณฑ์กำไร แล้วโยกทุนไปยัง functional B2B Business Strategy: Focused Differentiation — ชนะด้วย solution, specification, compliance, response time และ lifecycle value Functional Strategy:
+[P196 | List Bullet] Marketing/Sales: account-based B2B, tender pipeline, reference accounts, segment specialist
+[P197 | List Bullet] Operations: value-stream, make-to-order, postponement, supplier certification, semi-automation
+[P198 | List Bullet] R&D: 3–4 product platforms ไม่ใช่ collection กระจัดกระจาย
+[P199 | List Bullet] Finance: customer/SKU margin gate, core operating P&L, capex hurdle rate
+[P200 | List Bullet] HR: sales engineer, textile technologist, IE/data capability, multi-skill operators
+[P201 | List Bullet] IT: CRM + costing + S&OP/MES + traceability dashboard
+[P202 | Heading 1] 12. ทบทวน Vision, Mission และ Objectives
+[P203 | Normal] Vision ที่เสนอ “เป็นพันธมิตรชั้นนำของไทยด้านเครื่องแบบและเครื่องนุ่งห่มเชิงฟังก์ชันที่มีคุณภาพ ตรวจสอบย้อนกลับได้ และยั่งยืน”
+[P204 | Normal] Mission ที่เสนอ
+[P205 | Normal] 1.  ออกแบบและผลิตเครื่องนุ่งห่มที่แก้โจทย์การทำงานจริงของลูกค้าองค์กร
+[P206 | Normal] 2.  เชื่อมวัสดุ นวัตกรรม การผลิต คุณภาพ และบริการหลังการขายเป็นโซลูชันเดียว
+[P207 | Normal] 3.  ยกระดับ productivity และใช้ข้อมูลตัดสินใจระดับลูกค้า/SKU
+[P208 | Normal] 4.  สร้าง supply chain ที่โปร่งใส ปลอดภัย และลดผลกระทบสิ่งแวดล้อม
+[P209 | Normal] 5.  พัฒนาคนและสร้างผลตอบแทนจากธุรกิจหลักอย่างยั่งยืน
+[P210 | Normal] Objectives ที่เสนอ
+[P211 | List Bullet] ธุรกิจหลักก่อนรายได้อื่น/กำไรจากเงินลงทุน break-even ภายในปี 2570 และมี core EBIT margin ≥5% ภายในปี 2572
+[P212 | List Bullet] Gross margin ≥25% ปี 2571 และ ≥27% ปี 2572
+[P213 | List Bullet] SG&A/Sales ≤23% ปี 2571 และ ≤21% ปี 2572
+[P214 | List Bullet] ลดสัดส่วนลูกค้ารายใหญ่ที่สุดจาก 40.12% เหลือ ≤30% ภายในปี 2572
+[P215 | List Bullet] ลด inventory days จาก 184 วัน เหลือ ≤130 วันปี 2571 และ ≤110 วันปี 2572
+[P216 | List Bullet] รายได้จาก functional uniform/medical/workwear ≥30% ของยอดขายในปี 2572 โดยต้องกำหนด baseline ภายใน 90 วัน
+[P217 | List Bullet] Strategic SKU ที่ขาย EU/ลูกค้าสากลมี traceability ครบ 100% ภายในปี 2571
+[P218 | Heading 1] 13. แผนปฏิบัติการ
+[P219 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P220 | Normal] งบประมาณเป็นกรอบสมมติสำหรับทำรายงาน ไม่ใช่งบที่บริษัทประกาศ ควรทำ quotation และ business case ก่อนใช้จริง
+[P221 | Heading 1] 14. Balanced Scorecard และการควบคุม
+[P222 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P223 | Normal] Control cadence:
+[P224 | List Bullet] รายเดือน: core P&L, customer/SKU margin, inventory, OTD, pipeline
+[P225 | List Bullet] รายไตรมาส: SFAS assumptions, portfolio allocation, capex stage gate, risk register
+[P226 | List Bullet] รายปี: ทบทวน Vision/Objectives, competitor benchmark, scenario และแผน 3 ปี
+[P227 | Heading 1] 15. ฉากทัศน์ผลการดำเนินงาน
+[P228 | Normal] ตัวเลขต่อไปนี้เป็น “management target scenario” เพื่อเชื่อมกลยุทธ์กับผลการเงิน ไม่ใช่ประมาณการหลักทรัพย์
+[P229 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P230 | Normal] สมมติฐานหลักคือการหยุดงานกำไรต่ำ ปรับ mix ไป functional B2B ลด SG&A เพิ่ม productivity และรักษาวินัย inventory หากไม่สามารถยืนยัน pipeline และ margin ของ product platform ภายใน 9–12 เดือน ต้องชะลอ capex และทบทวนทางเลือก
+[P231 | Heading 1] 16. ความเสี่ยงของกลยุทธ์และแผนลดความเสี่ยง
+[P232 | Table Source] ที่มา: การสังเคราะห์จากแหล่งข้อมูลที่ระบุในเนื้อหาและรายการอ้างอิง
+[P233 | Heading 1] 17. สิ่งที่ต้องแก้ในรายงานกลุ่มเดิมทันที
+[P234 | Normal] 1.  เปลี่ยนตัวเลขการเงินทั้งหมดให้เป็นงบของ PG: ยอดขายปี 2568 = 605.20 ล้านบาท และขาดทุนสุทธิ 5.56 ล้านบาท
+[P235 | Normal] 2.  แยก External กับ Internal ใหม่: การแข่งขัน ต้นทุนวัตถุดิบ/แรงงาน และพฤติกรรมผู้บริโภคเป็น Threat ไม่ใช่ Weakness
+[P236 | Normal] 3.  อย่าใช้ “สินค้าเป็นมิตรต่อสิ่งแวดล้อม” ซ้ำหลายรหัสใน EFAS/IFAS/SFAS
+[P237 | Normal] 4.  Rating ต้องสะท้อนการตอบสนองจริง ไม่ใช่ให้ 5 เพราะปัจจัยสำคัญ
+[P238 | Normal] 5.  แก้ IFAS header ที่เขียน External Factors และลบแถว S2–S5 ที่ซ้ำหลัง SFAS total
+[P239 | Normal] 6.  เปลี่ยน TOWS จากรายการไอเดีย 13 ข้อเป็นชุดทางเลือก 3 ทาง พร้อม criteria เลือก
+[P240 | Normal] 7.  เลือกกลยุทธ์เดียวและเชื่อม Corporate → Business → Functional → Action Plan → KPI → Financial scenario
+[P241 | Normal] 8.  ทบทวน Vision/Mission/Objectives จริง ไม่ใช่คัดลอกของเดิมแล้วเขียนว่า “เหมาะสม”
+[P242 | Normal] 9.  อ้างอิงแหล่งข้อมูลทุกตัวเลขและทุก claim สำคัญ
+[P243 | Normal] 10.  ใช้โครงสร้างเถ้าแก่น้อยเป็นต้นแบบด้านการเชื่อมเหตุผล แต่อย่าคัดลอก classification หรือ rating ที่ผิด
+[P244 | Heading 1] 18. สิ่งที่ยังต้องขอจากบริษัท/ผู้บริหารก่อนทำ Full Report
+[P245 | List Bullet] ยอดขายและ contribution margin แยกตาม customer, SKU, channel, brand และ segment อย่างน้อย 24 เดือน
+[P246 | List Bullet] รายได้เฉพาะ Uniform, Scrub, Functional และ OEM/ODM ปัจจุบัน
+[P247 | List Bullet] OTD, defect, SMV, labor productivity, overtime และ capacity ที่เป็นของโรงงานเอง
+[P248 | List Bullet] อายุ inventory แยก raw/WIP/finished และ markdown/obsolescence
+[P249 | List Bullet] รายชื่อลูกค้า top 10 และ contract renewal/order pattern
+[P250 | List Bullet] แผน capex/semi-automation และผล ROI ของโครงการเดิม
+[P251 | List Bullet] จำนวนพนักงาน/ทักษะ critical roles หลังปรับโครงสร้าง
+[P252 | List Bullet] ข้อตกลงเชิงพาณิชย์และบทบาทระหว่าง PG, SPI, I.C.C. และบริษัทในเครือ
+[P253 | Heading 1] 19. ข้อจำกัดและสมมติฐาน
+[P254 | List Bullet] บริษัทไม่เปิดเผย margin ตาม segment/customer/SKU จึงยังพิสูจน์ไม่ได้ว่า Uniform หรือ Scrub มี margin สูงกว่าจริง ข้อเสนอต้องผ่าน 90-day profitability validation
+[P255 | List Bullet] คู่แข่งเอกชนเปิดเผยข้อมูลไม่เท่ากัน การเปรียบเทียบจึงใช้ข้อมูลสาธารณะล่าสุดและแยก benchmark ตามสนาม
+[P256 | List Bullet] ตัวเลขงบประมาณ แผนรายได้ และ KPI ในส่วนแผนปฏิบัติการเป็นกรอบสำหรับการเรียนและการอภิปราย ไม่ใช่ guidance ของบริษัท
+[P257 | List Bullet] กำไรจากธุรกิจหลักโดยประมาณคำนวณจาก gross profit – selling & administrative expenses เพื่อแยกภาพ operating economics; ไม่ใช่มาตรวัด IFRS ที่บริษัทประกาศ
+[P258 | List Bullet] ข้อมูล ณ 31 สิงหาคม 2569; กฎระเบียบ คำสั่งซื้อ และผลประกอบการอาจเปลี่ยนได้
+[P259 | Heading 1] 20. แหล่งข้อมูลหลัก
+[P260 | List Bullet] [S1] People’s Garment, *2025 One Report*: https://investor.pg.co.th/wp-content/uploads/2026/04/2025-One-Report-Eng-web.pdf
+[P261 | List Bullet] [S2] People’s Garment, *Audited Financial Statements 2025*: https://investor.pg.co.th/wp-content/uploads/2025/05/%E0%B8%87%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-Eng-1.pdf
+[P262 | List Bullet] [S3] SET, *PG Financial Performance Q2/6M 2026*: https://www.set.or.th/en/market/news-and-alert/newsdetails?id=105879700&symbol=PG
+[P263 | List Bullet] [S4] People’s Garment, *Explanation of Q2/2026 Results*: https://investor.pg.co.th/wp-content/uploads/2026/08/LET017-26-%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C%E0%B8%9C%E0%B8%A5%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99-Q2-2569-Eng.pdf
+[P264 | List Bullet] [S5] People’s Garment, *About Us and Products*: https://www.pg.co.th/about-us/ และ https://www.pg.co.th/product/
+[P265 | List Bullet] [S6] People’s Garment, *Shareholders Information 13 May 2026*: https://investor.pg.co.th/shareholders-information/
+[P266 | List Bullet] [S7] Saha Pathana Inter-Holding, *Our History / Investment in PG*: https://www.spi.co.th/en/home/our-history
+[P267 | List Bullet] [S8] สำนักงานเศรษฐกิจอุตสาหกรรม, *สถานการณ์ปี 2568 และแนวโน้มปี 2569 อุตสาหกรรมสิ่งทอและเครื่องนุ่งห่ม*: https://www.oie.go.th/assets/portals/1/fileups/2/files/Industry%20conditions/annual2025trends2026.pdf
+[P268 | List Bullet] [S9] DITP, *กระแส Recovery Wear ในญี่ปุ่น*: https://www.ditp.go.th/post/o18fb0qyih275eybtoyweqmn
+[P269 | List Bullet] [S10] European Commission, *EU Strategy for Sustainable and Circular Textiles*: https://environment.ec.europa.eu/strategy/textiles-strategy_en
+[P270 | List Bullet] [S11] European Commission, *Ecodesign for Sustainable Products Regulation*: https://commission.europa.eu/news-and-media/news/new-law-make-products-eu-market-more-sustainable-2024-07-19_en
+[P271 | List Bullet] [S12] Council of the EU, *Forced Labour Products Regulation*: https://www.consilium.europa.eu/en/policies/forced-labour-products/
+[P272 | List Bullet] [S13] Nice Group Holding, *Investor Relations*: https://niceapparelgroup.com/nice_investor_relations.html
+[P273 | List Bullet] [S14] Hi-Tech Apparel, *Company and Manufacturing Capabilities*: https://hi-group.com/
+[P274 | List Bullet] [S15] VT Garment, *Sustainability & ESG*: https://www.vtgarment.com/sustainability-esg/
+[P275 | List Bullet] [S16] Warrix, *2025 One Report*: https://investor.warrix.co.th/wp-content/uploads/2026/05/One-Report-2025_EN.pdf
+[P276 | List Bullet] [S17] Sabina, *2026 AGM Minutes / 2025 Performance*: https://investor.sabina.co.th/storage/document/shareholder-meeting/agm2026/sabina-agm2026-minutes-en.pdf
+[P277 | List Bullet] [S18] European Commission, *CBAM Definitive Regime and Covered Sectors*: https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-definitive-regime_en
+[P278 | List Bullet] [S19] MC Group, *FY2025 Performance*: https://www.mcgroupnet.com/storage/document/shareholder-meetings/agm-2025/20251110-mc-agm-2025-minutes-en.pdf
+[P279 | Heading 1] 21. Claim-to-Source Ledger
+
+===== TABLE 1 (5x5) =====
+รายได้จากการขาย (ล้านบาท) | 2566 | 2567 | 2568 | เปลี่ยนแปลง 2568
+ในประเทศ | 527.64 | 511.09 | 432.66 | -15.35%
+ต่างประเทศ | 175.86 | 262.84 | 172.54 | -34.36%
+รวม | 703.52 | 773.93 | 605.20 | -21.80%
+สัดส่วนส่งออก | 25.00% | 33.96% | 28.51% | ลดลง 5.45 จุด
+
+===== TABLE 2 (4x4) =====
+การผลิต | 2566 | 2567 | 2568
+กำลังการผลิตรวม (ชิ้น) | 3,972,000 | 2,712,000 | 2,712,000
+ผลิตจริง (ชิ้น) | 3,328,806 | 2,422,801 | 2,269,318
+Utilization | 83.81% | 89.34% | 83.68%
+
+===== TABLE 3 (12x4) =====
+รายการ (ล้านบาท) | 2566 | 2567 | 2568
+ยอดขาย | 703.52 | 773.93 | 605.20
+กำไรขั้นต้น | 151.74 | 182.35 | 129.52
+อัตรากำไรขั้นต้น | 21.57% | 23.56% | 21.40%
+ค่าใช้จ่ายขายและบริหาร | 179.71 | 206.46 | 178.08
+กำไร/(ขาดทุน) จากธุรกิจหลักโดยประมาณ* | -27.98 | -24.11 | -48.56
+รายได้อื่น | 64.64 | 64.10 | 62.14
+กำไร/(ขาดทุน) ตีมูลค่าเงินลงทุน | -9.86 | -46.21 | -19.50
+กำไร/(ขาดทุน) สุทธิ | 25.99 | 1.96 | -5.56
+สินทรัพย์รวม | 1,713.80 | 1,576.57 | 1,511.37
+หนี้สินรวม | 219.05 | 158.34 | 145.83
+ส่วนของผู้ถือหุ้น | 1,494.75 | 1,418.23 | 1,365.54
+
+===== TABLE 4 (6x3) =====
+แรงกดดัน | ระดับ | หลักฐานและความหมายต่อ PG
+การแข่งขันในอุตสาหกรรม | สูงมาก (5/5) | คู่แข่งเอเชียมีต้นทุนแรงงานต่ำกว่า คู่แข่งไทยรายใหญ่มีฐานผลิตหลายประเทศและ automation; สินค้าในประเทศถูกกดด้วยของนำเข้าราคาต่ำ
+อำนาจต่อรองของลูกค้า | สูงมาก (5/5) | OEM buyer ย้ายคำสั่งซื้อ เลื่อนผลิต หรือต่อรองราคาได้; PG มี I.C.C. คิดเป็น 40.12% ของยอดขายรวม
+อำนาจต่อรองของผู้ขาย | ต่ำ–ปานกลาง (2/5) | PG มี 222 คู่ค้าและไม่มีรายใดเกิน 10% แต่ functional/certified material บางชนิดต้องนำเข้าและมีตัวเลือกจำกัดกว่า
+ผู้เข้าใหม่ | ปานกลาง (3/5) | การตัดเย็บทั่วไปเข้าได้ไม่ยาก แต่การเข้าถึงลูกค้าองค์กร มาตรฐาน คุณภาพ และ traceability สร้างกำแพงได้
+สินค้าทดแทน | สูง (4/5) | เสื้อผ้านำเข้า แบรนด์ลดราคา สินค้ามือสอง และการแต่งกาย casual ลดความต้องการบางหมวด
+
+===== TABLE 5 (8x6) =====
+ปัจจัยสำเร็จ | PG | Nice | Hi-Tech | VT | Warrix/Sabina
+Scale และต้นทุนการผลิต | 2 | 5 | 5 | 3 | 2–3
+Engineering/ODM | 3 | 5 | 5 | 4 | 2–3
+ความคล่องตัวล็อตเล็ก/งานเฉพาะ | 3 | 3 | 4 | 4 | 3
+Sustainability/มาตรฐาน | 4 | 5 | 5 | 5 | 4
+แบรนด์และช่องทางผู้บริโภค | 2 | 1 | 1 | 1 | 5
+ความสามารถขายโครงการ/เครื่องแบบ | 3 | 2 | 2 | 3 | 4
+ฐานะการเงิน/เครือข่ายผู้ถือหุ้น | 4 | 5 | 5 | 3 | 4
+
+===== TABLE 6 (6x6) =====
+ทรัพยากร/ความสามารถ | V | R | I | O | ผลเชิงกลยุทธ์
+ฐานะการเงิน D/E ต่ำและสินทรัพย์ทางการเงินสูง | ใช่ | ปานกลาง | ไม่ | ยังไม่เต็มที่ | ความได้เปรียบชั่วคราว; ต้องจัดสรรทุนใหม่
+ผ้าถัก + ออกแบบ + แพตเทิร์น + ตัดเย็บ | ใช่ | ปานกลาง | ปานกลาง | บางส่วน | มีศักยภาพ ODM แต่ยังไม่แปลงเป็น margin
+ISO/GRS/Cool Mode/ฉลากเบอร์ 5/solar | ใช่ | ปานกลาง | ปานกลาง | บางส่วน | เป็น entry ticket และสร้าง premium ได้หากมี traceability/การขายที่ดี
+ความสัมพันธ์ I.C.C./เครือสหพัฒน์/SPI | ใช่ | ค่อนข้างหายาก | ปานกลาง | กำลังปรับ | โอกาสสำคัญทั้งยอดขาย shared service และลงทุน แต่มี concentration/governance risk
+ความเชี่ยวชาญเครื่องแบบและสครับ | ใช่ | ปานกลาง | ปานกลาง | ยังไม่ชัด | candidate core capability ที่ควรสร้างเป็นธุรกิจเฉพาะ
+
+===== TABLE 7 (12x5) =====
+ปัจจัยภายนอก | Weight | Rating | Weighted Score | เหตุผลของ Rating
+O1 ตลาด functional, medical และ sustainable textiles | 0.12 | 3 | 0.36 | PG มีผลิตภัณฑ์/มาตรฐาน แต่ยอดยังไม่เปิดเผยและยังไม่เป็นแกนหลัก
+O2 การส่งออกบางหมวด เช่น กีฬา โปโล ชุดชั้นใน ยังเติบโต | 0.08 | 3 | 0.24 | มีฐานส่งออก แต่ยอดส่งออก PG ปี 2568 ลด 34.36%
+O3 กฎและผู้ซื้อให้ค่ากับ traceability/circularity มากขึ้น | 0.08 | 3 | 0.24 | มี ISO/GRS/solar แต่ยังไม่มี DPP/traceability proposition ชัด
+O4 ASEAN/nearshore ช่วยกระจายตลาด | 0.05 | 2 | 0.10 | บริษัทประกาศเป้าหมาย แต่ยังไม่มีหลักฐานผลเชิงพาณิชย์
+T1 คู่แข่งต้นทุนต่ำและสินค้านำเข้าราคาถูก | 0.15 | 2 | 0.30 | ยังพึ่งการแข่งขันราคาและ margin ต่ำ
+T2 กำลังซื้อในประเทศและนโยบายจัดซื้อของลูกค้าหลัก | 0.14 | 2 | 0.28 | รายได้ในประเทศลด 15.35% และ concentration สูง
+T3 อำนาจต่อรองผู้ซื้อและการย้ายคำสั่งซื้อ | 0.11 | 2 | 0.22 | PG มีขนาดเล็กเมื่อเทียบ regional OEM และคำสั่งซื้อผันผวน
+T4 ต้นทุนแรงงานและ productivity/automation gap | 0.10 | 2 | 0.20 | เพิ่งเริ่ม semi-automation; คู่แข่งลงทุนกว้างกว่า
+T5 ภาษีการค้า ค่าเงิน และภูมิรัฐศาสตร์ | 0.10 | 2 | 0.20 | ปี 2568 ลูกค้าชะลอคำสั่งซื้อรอความชัดเจนด้านภาษี
+T6 กฎ circularity, product information และ forced labour | 0.07 | 3 | 0.21 | มีฐานมาตรฐาน แต่ยังต้องยกระดับข้อมูล supply chain
+รวม | 1.00 |  | 2.35 | ต่ำกว่าค่ากลาง 3.00; การตอบสนองต่อภายนอกยังไม่แข็งแรง
+
+===== TABLE 8 (13x5) =====
+ปัจจัยภายใน | Weight | Rating | Weighted Score | เหตุผลของ Rating
+S1 ฐานะการเงินแข็งแรง D/E 0.11 และมีสินทรัพย์ลงทุนสูง | 0.11 | 4 | 0.44 | มีความสามารถลงทุน/รองรับ turnaround
+S2 ออกแบบ-ผ้าถัก-แพตเทิร์น-ตัดเย็บ และมาตรฐานคุณภาพ | 0.10 | 4 | 0.40 | เป็นฐาน ODM และ one-stop ที่จับต้องได้
+S3 functional/sustainable materials, GRS, Cool Mode, solar | 0.09 | 4 | 0.36 | มีหลักฐานและผลิตภัณฑ์จริงหลายรายการ
+S4 SPI/Saha ecosystem และช่องทาง I.C.C. | 0.09 | 4 | 0.36 | ผู้ถือหุ้นใหญ่ต้องการพัฒนาแผนธุรกิจ และมีเครือข่ายกว้าง
+S5 ผลิตภัณฑ์และตลาดหลายกลุ่ม ส่งออก 28.51% | 0.06 | 3 | 0.18 | กระจายบางส่วน แต่ความกว้างยังไม่สร้างกำไร
+W1 ธุรกิจหลักขาดทุนเชิงปฏิบัติการ/SG&A สูง | 0.16 | 1 | 0.16 | ปี 2568 GP ต่ำกว่า SG&A ราว 48.56 ล้านบาท
+W2 พึ่งพา I.C.C. 40.12% ของยอดขายรวม | 0.12 | 2 | 0.24 | ความสัมพันธ์แข็งแรงแต่เสี่ยง concentration
+W3 ยอดขายผันผวนและปี 2568 ลด 21.80% | 0.10 | 2 | 0.20 | 6M2569 ยอดขายยังลด 2.62%
+W4 Inventory 337.11 ล้านบาท/184 วัน | 0.08 | 2 | 0.16 | เสี่ยงล้าสมัยและกดเงินทุนหมุนเวียน
+W5 ขนาดเล็กและ technology gap เทียบ regional OEM | 0.06 | 2 | 0.12 | scale ต่ำกว่าคู่แข่งหลายเท่า
+W6 กลยุทธ์เดิมกว้างและไม่มี strategic focus ชัด | 0.03 | 2 | 0.06 | ขยายหลายหมวด/หลายช่องทางพร้อมกัน แต่ผลลัพธ์ลดลง
+รวม | 1.00 |  | 2.68 | ทรัพยากรดีแต่ organization/strategy ยังเปลี่ยนเป็นผลตอบแทนไม่ได้
+
+===== TABLE 9 (12x6) =====
+ปัจจัยเชิงกลยุทธ์ | Weight | Rating | Score | ระยะเวลา | นัยต่อกลยุทธ์
+S1 ฐานะการเงินและทรัพย์สินลงทุน | 0.10 | 4 | 0.40 | สั้น–กลาง | ใช้ทุนอย่างมีวินัยเพื่อ turnaround ไม่ใช่ลงทุนกระจาย
+S2 integrated functional/sustainable capability | 0.11 | 4 | 0.44 | กลาง–ยาว | เป็นแกน differentiation
+S3 SPI/Saha ecosystem | 0.08 | 4 | 0.32 | สั้น–ยาว | pilot accounts, shared service, capital และเครือข่าย
+W1 ธุรกิจหลักไม่ครอบคลุม SG&A | 0.18 | 1 | 0.18 | สั้น | เป็นโจทย์เร่งด่วนที่สุด
+W2 ลูกค้ากระจุกตัว | 0.10 | 2 | 0.20 | กลาง | ต้องสร้าง direct B2B pipeline
+W3 ขนาดเล็ก/portfolio กว้าง/เทคโนโลยียังจำกัด | 0.08 | 2 | 0.16 | กลาง | ต้องเลือกสนามและ make-or-buy ใหม่
+O1 functional, medical, sustainable workwear | 0.10 | 3 | 0.30 | กลาง–ยาว | ตลาดที่เข้ากับทรัพยากร PG มากที่สุด
+O2 traceability และ circularity เป็นเกณฑ์ซื้อ | 0.07 | 3 | 0.21 | กลาง–ยาว | เปลี่ยน compliance เป็น value proposition
+T1 ต้นทุนต่ำ + buyer power สูง | 0.10 | 2 | 0.20 | สั้น–ยาว | ห้ามเลือก pure cost leadership
+T2 order/tariff/FX volatility | 0.08 | 2 | 0.16 | สั้น–ยาว | ใช้ contract, customer mix และ hedging
+รวม | 1.00 |  | 2.57 |  | ต้องปรับกลยุทธ์ ไม่ใช่แค่ปรับกิจกรรมการตลาด
+
+===== TABLE 10 (8x5) =====
+เกณฑ์ | Weight | A OEM Volume | B D2C Brand | C Functional B2B
+Strategic fit | 0.25 | 2 | 3 | 5
+ความเป็นไปได้ทางการเงิน | 0.15 | 3 | 3 | 4
+ศักยภาพ margin | 0.20 | 2 | 3 | 5
+ความยากในการเลียนแบบ | 0.15 | 2 | 3 | 4
+ความเร็วสู่ผลลัพธ์ | 0.10 | 2 | 2 | 4
+ความเสี่ยงที่ควบคุมได้ | 0.15 | 2 | 2 | 4
+คะแนนรวมถ่วงน้ำหนัก | 1.00 | 2.15 | 2.75 | 4.45
+
+===== TABLE 11 (10x5) =====
+ระยะ | โครงการ | เจ้าภาพหลัก | งบประมาณตัวอย่าง | KPI/ผลส่งมอบ
+0–90 วัน | Customer/SKU profitability, core P&L, portfolio stop/keep/grow | CEO/CFO/Commercial | 0.5–1.0 ลบ. | ครอบคลุม ≥95% ยอดขาย; รายการ exit/renegotiate ชัด
+0–6 เดือน | ตั้ง Functional Solutions BU และเลือก 3 verticals | CEO/Business Director | 1–2 ลบ. | BU P&L, account list 50 ราย, pipeline ≥3 เท่าเป้า
+3–9 เดือน | พัฒนา 4 product platforms: Cool/Medical/Industrial/Circular | R&D/Production/QA | 4–7 ลบ. | sample-to-order ≥25%; test/spec sheet ครบ
+3–12 เดือน | Pilot กับบริษัทในเครือ/โรงพยาบาล/โรงแรม | Sales/SPI liaison | 2–4 ลบ. | reference account ≥5; repeat order ≥60%
+6–15 เดือน | CRM, digital costing, S&OP, traceability MVP | CIO/CFO/Operations | 5–8 ลบ. | quote lead time -30%; forecast accuracy ≥75%
+6–18 เดือน | Semi-automation/MES เฉพาะ value stream ที่ผ่าน ROI | COO/IE | 12–22 ลบ. | labor minute/piece -15%; OTD ≥95%
+12–24 เดือน | B2B replenishment portal และ contract service | Commercial/IT | 3–5 ลบ. | contract revenue ≥20% ของ BU; stockout <2%
+18–36 เดือน | ขยาย selected ODM ไปญี่ปุ่น/EU/ASEAN | Export/R&D/Compliance | 4–6 ลบ. | ลูกค้า export ใหม่ ≥3; margin ผ่าน hurdle
+รวม |  |  | ประมาณ 31.5–55 ลบ. | ต้องอนุมัติเป็น stage gate ตาม ROI
+
+===== TABLE 12 (12x4) =====
+มิติ | KPI หลัก | Baseline | เป้าหมาย 2572
+Financial | Core EBIT margin | ประมาณ -8.0% ปี 2568 | ≥5%
+Financial | Gross margin | 21.40% | ≥27%
+Financial | ROE | -0.40% | >3% ระยะแรก และเพิ่มต่อเนื่อง
+Customer | ลูกค้ารายใหญ่ที่สุด/ยอดขายรวม | 40.12% | ≤30%
+Customer | Repeat order ของ Functional BU | ต้องตั้ง baseline | ≥70%
+Customer | Net promoter/contract renewal | ต้องตั้ง baseline | renewal ≥85%
+Process | Inventory days | 184 วัน | ≤110 วัน
+Process | On-time delivery | ต้องตั้ง baseline | ≥95%
+Process | Quote/sample lead time | ต้องตั้ง baseline | ลด ≥30%
+Learning | พนักงาน critical role ผ่าน upskill | ต้องตั้ง baseline | 100%
+ESG/Data | Strategic SKU traceability | ต้องตั้ง baseline | 100%
+
+===== TABLE 13 (6x5) =====
+รายการ | 2568 Actual | 2570 Target | 2571 Target | 2572 Target
+ยอดขาย (ล้านบาท) | 605 | 630 | 680 | 740
+Gross margin | 21.4% | 23.5% | 25.5% | 27.0%
+SG&A/Sales | 29.4% | 24.5% | 23.0% | 21.0%
+Core EBIT margin โดยประมาณ | -8.0% | -1.0% | 2.5% | 6.0%
+Inventory days | 184 | 155 | 130 | 110
+
+===== TABLE 14 (7x3) =====
+ความเสี่ยง | สัญญาณเตือน | การตอบสนอง
+Functional BU ขายไม่ได้ตามเป้า | pipeline <2 เท่าเป้า, sample conversion <20% | ลด product platform, ใช้ reference account, ทบทวน segment
+margin ถูกกดจาก tender | contribution margin ต่ำกว่า hurdle | bid/no-bid gate, value engineering, price-adjustment clause
+capex ไม่เพิ่ม productivity | OEE/SMV ไม่ดีขึ้นภายใน 3 เดือน | stage-gate, pilot line ก่อน rollout
+ขัดแย้งกับ I.C.C./ธุรกิจในเครือ | channel overlap/ราคาชนกัน | กำหนด segment/channel charter และ governance
+traceability data ไม่ครบ | supplier data gap, audit finding | supplier onboarding, material passport, alternate supplier
+ลดคน/ค่าใช้จ่ายจนเสีย capability | defect/OTD/turnover แย่ลง | protect critical roles, reskill, capacity model
+
+===== TABLE 15 (12x3) =====
+Claim สำคัญ | แหล่งหลัก | สถานะ
+ยอดขาย PG ปี 2568 = 605.20 ลบ.; ขาดทุนสุทธิ 5.56 ลบ. | S1, S2 | ยืนยันจากบริษัท/ผู้สอบบัญชี
+I.C.C. = 40.12% ของยอดขายรวม | S1 | บริษัทเปิดเผยใน Risk Factor
+Inventory 337.11 ลบ./184 วัน | S1 | บริษัทเปิดเผย
+6M2569 ยอดขายลด 2.62% แต่กำไรสุทธิ 17.92 ลบ. | S3, S4 | SET + คำชี้แจงบริษัท
+กำไรฟื้นจาก cost cut/other income/investment gain มากกว่ายอดขาย | S4 | ข้อสรุปเชิงวิเคราะห์จากตัวเลขบริษัท
+SPI ถือ 46.998% และต้องการพัฒนาแผน PG | S6, S7 | บริษัท/ผู้ถือหุ้นใหญ่เปิดเผย
+เสื้อผ้าส่งออกไทยปี 2568 +5.61% | S8 | OIE
+EU กำลังผลักดัน DPP/circularity และ forced-labour controls | S10–S12 | หน่วยงาน EU
+CBAM ไม่ครอบคลุมเครื่องนุ่งห่มโดยตรง ณ วันวิจัย | S18 | European Commission
+Nice/Hi-Tech มี scale สูงกว่า PG หลายเท่า | S13, S14 | เว็บไซต์คู่แข่ง
+Functional B2B เป็นทางเลือกที่เหมาะที่สุด | S1–S19 | การอนุมานจาก fit/industry/financial diagnostics; ต้อง validate margin ภายใน

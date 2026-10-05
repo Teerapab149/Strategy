@@ -1,0 +1,83 @@
+# Outline - บริษัท ประชาอาภรณ์ จำกัด (มหาชน) ทั้งเล่ม.docx
+
+    - `P0003` แผนกลยุทธ์ บริษัท ประชาอาภรณ์ จำกัด (มหาชน) _(inferred - no Heading style)_
+    - `P0005` จัดทำโดย _(inferred - no Heading style)_
+    - `P0007` เสนอ _(inferred - no Heading style)_
+    - `P0008` อาจารย์ ดร.ศิรินุช ลอยกุลนันท์ _(inferred - no Heading style)_
+    - `P0009` เป็นส่วนหนึ่งของรายวิชา 460-401 การจัดการเชิงกลยุทธ์ _(inferred - no Heading style)_
+    - `P0010` ภาคเรียนที่ 1 ปีการศึกษา 2569 _(inferred - no Heading style)_
+    - `P0011` คำนำ _(inferred - no Heading style)_
+    - `P0015` คณะผู้จัดทำ _(inferred - no Heading style)_
+    - `P0017` สารบัญ _(inferred - no Heading style)_
+  - `P0020` 1.บทสรุปผู้บริหาร _(inferred - no Heading style)_
+  - `P0023` 2. สถานการณ์ปัจจุบัน _(inferred - no Heading style)_
+    - `P0024` 2.1 ประวัติองค์กร _(inferred - no Heading style)_
+    - `P0026` <<IMAGE>> 2.2 โครงสร้างองค์กร _(inferred - no Heading style)_
+    - `P0033` 2.3 คณะกรรมการบริหาร _(inferred - no Heading style)_
+    - `P0047` 2.4 วิสัยทัศน์ พันธกิจ วัตถุประสงค์ _(inferred - no Heading style)_
+      - `P0048` 2.4.1 วิสัยทัศน์ (Vision) _(inferred - no Heading style)_
+      - `P0050` 2.4.2 พันธกิจ (Mission) _(inferred - no Heading style)_
+      - `P0059` 2.4.3 วัตถุประสงค์ (Objectives) _(inferred - no Heading style)_
+    - `P0064` 2.5 กลยุทธ์ปัจจุบัน _(inferred - no Heading style)_
+    - `P0069` 2.6 ผลประกอบการที่ผ่านมา _(inferred - no Heading style)_
+  - `P0086` 3. การวิเคราะห์สภาพแวดล้อมเชิงกลยุทธ์ _(inferred - no Heading style)_
+    - `P0087` 3.1 การวิเคราะห์สภาพแวดล้อมภายนอก _(inferred - no Heading style)_
+      - `P0088` 3.1.1 การวิเคราะห์สภาพแวดล้อมภายนอกทั่วไป (STEEP) _(inferred - no Heading style)_
+      - `P0095` 3.1.2 การวิเคราะห์อุตสาหกรรม (Five Forces) _(inferred - no Heading style)_
+    - `P0096` การแข่งขันระหว่างบริษัทในอุตาหกรรมเดียวกัน (Rivalry among Existing Firms) _(inferred - no Heading style)_
+    - `P0098` ภาวะคุกคามจากคู่แข่งขันรายใหม่ (Threat of New Entrants) _(inferred - no Heading style)_
+    - `P0100` อำนาจต่อรองของผู้ซื้อ (The Bargaining Power of Buyers) _(inferred - no Heading style)_
+    - `P0103` ภาวะคุกคามจากสินค้าและบริการ (Threat of Substitute Products or Services) _(inferred - no Heading style)_
+      - `P0105` 3.1.3 การวิเคราะห์คู่แข่งขันหลัก (Key Success Factor) _(inferred - no Heading style)_
+      - `P0108` 3.1.4 โอกาส (Opportunities) และ อุปสรรค (Threats) _(inferred - no Heading style)_
+    - `P0109` โอกาส (Opportunities) _(inferred - no Heading style)_
+    - `P0114` อุปสรรค (Threats) _(inferred - no Heading style)_
+      - `P0121` 3.1.5 บทสรุปการวิเคราะห์ปัจจัยภายนอก (EFAS) _(inferred - no Heading style)_
+    - `P0124` 3.2 การวิเคราะห์สภาพแวดล้อมภายใน _(inferred - no Heading style)_
+      - `P0125` 3.2.1 การวิเคราะห์ทรัพยากรภายในองค์กร _(inferred - no Heading style)_
+    - `P0126` สินทรัพย์ที่มีตัวตน (Tangible Assets) _(inferred - no Heading style)_
+  - `P0127` 1) ที่ตั้ง _(inferred - no Heading style)_
+  - `P0130` 2) มาตรฐานระดับสากล _(inferred - no Heading style)_
+    - `P0137` สินทรัพย์ที่ไม่มีตัวตน (Intangible Assets) _(inferred - no Heading style)_
+    - `P0139` ลิขสิทธิ์ในการเป็นผู้ผลิตสินค้าแบรนด์ชั้นนำระดับสากล (Manufacturing Licenses) _(inferred - no Heading style)_
+    - `P0153` เครื่องหมายการค้าของบริษัท (House Brands) _(inferred - no Heading style)_
+    - `P0160` ลิขสิทธิ์ซอฟต์แวร์และระบบเทคโนโลยีสารสนเทศ (Software & IT Systems) _(inferred - no Heading style)_
+    - `P0164` ใบรับรองมาตรฐานสากลและสิทธิบัตรด้านสิ่งแวดล้อม (Certifications & Eco-Labels) _(inferred - no Heading style)_
+    - `P0170` ชื่อเสียงองค์กรด้านแรงงานสัมพันธ์ (Corporate Goodwill) _(inferred - no Heading style)_
+      - `P0172` 3.2.2 ความสามารถหลักขององค์กร _(inferred - no Heading style)_
+    - `P0173` แก่นความสามารถ (Core Competency) _(inferred - no Heading style)_
+    - `P0175` ความสามารถที่โดดเด่น (Distinctive Competency) _(inferred - no Heading style)_
+      - `P0180` 3.2.3 ความได้เปรียบทางการแข่งขันขององค์กร _(inferred - no Heading style)_
+    - `P0181` การตลาด (Marketing) _(inferred - no Heading style)_
+    - `P0186` การผลิต (Operations) _(inferred - no Heading style)_
+    - `P0188` การวิจัยและพัฒนา (Research & Development) _(inferred - no Heading style)_
+    - `P0190` การวิจัยและพัฒนานวัตกรรมด้านวัตถุดิบและเส้นใย (Raw Material Innovation) _(inferred - no Heading style)_
+    - `P0194` การวิจัยและพัฒนาผลิตภัณฑ์ (New Product Development) _(inferred - no Heading style)_
+    - `P0199` การวิจัยและพัฒนากระบวนการผลิต (Process R&D) _(inferred - no Heading style)_
+    - `P0202` การเงิน (Finacial) _(inferred - no Heading style)_
+    - `P0205` การวิเคราะห์จุดแข็งและจุดอ่อน (Strengths & Weaknesses) _(inferred - no Heading style)_
+    - `P0206` จุดแข็ง (Strengths) _(inferred - no Heading style)_
+    - `P0211` จุดอ่อน (Weaknesses) _(inferred - no Heading style)_
+    - `P0217` บทสรุปการวิเคราะห์ปัจจัยภายใน (IFAS) _(inferred - no Heading style)_
+  - `P0220` 4. การวิเคราะห์ปัจจัยเชิงกลยุทธ์ _(inferred - no Heading style)_
+    - `P0221` 4.1 บทสรุปการวิเคราะห์ปัจจัยเชิงกล (SFAS) _(inferred - no Heading style)_
+    - `P0225` 4.2 TOWS Matrix _(inferred - no Heading style)_
+    - `P0228` 4.3 ทบทวนวิสัยทัศน์ พันธกิจ และวัตถุประสงค์ _(inferred - no Heading style)_
+    - `P0230` 4.4 ทางเลือกเชิงกลยุทธ์ที่นำเสนอ (Strategic Alternatives Recommended Strategies) _(inferred - no Heading style)_
+      - `P0231` 4.4.1 กลยุทธ์ระดับองค์กร (Corporate Strategy) _(inferred - no Heading style)_
+      - `P0233` 4.4.2 กลยุทธ์ระดับธุรกิจ (Business Strategy) _(inferred - no Heading style)_
+    - `P0235` กลยุทธ์ระดับหน้าที่ (Function strategy) _(inferred - no Heading style)_
+    - `P0237` แผนปี 2570 _(inferred - no Heading style)_
+    - `P0243` แผนปี 2571 _(inferred - no Heading style)_
+    - `P0249` แผนปี 2572 _(inferred - no Heading style)_
+    - `P0255` แผนปี 2573 _(inferred - no Heading style)_
+    - `P0262` แผนปี 2574 _(inferred - no Heading style)_
+    - `P0271` 5.1 แผนการปฎิบัติการ (Action Plan) _(inferred - no Heading style)_
+  - `P0276` 6.ประมาณการผลการดำเนินงาน (งบกำไรขาดทุน,.งบแสดงสถานะทางการเงิน) _(inferred - no Heading style)_
+    - `P0309` บรรณานุกรม _(inferred - no Heading style)_
+    - `P0329` กฎหมาย _(inferred - no Heading style)_
+  - `P0330` 1. ตัวสำคัญสุด — EU Forced Labour Regulation _(inferred - no Heading style)_
+    - `P0331` Regulation (EU) 2024/3015 — Forced Labour Regulation _(inferred - no Heading style)_
+  - `P0332` 2. ESPR + Digital Product Passport _(inferred - no Heading style)_
+    - `P0334` Regulation (EU) 2024/1781 — Ecodesign for Sustainable Products Regulation (ESPR) _(inferred - no Heading style)_
+  - `P0335` 3. EU Textile Labelling Regulation _(inferred - no Heading style)_

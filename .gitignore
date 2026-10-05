@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Microsoft Office temporary files
+~$*
+
+# OS generated files
+Thumbs.db
+.DS_Store

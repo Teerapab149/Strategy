@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<title>PG Storyboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@400;500;600;700&family=Sarabun:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  @page { size: A3 landscape; margin: 0; }
+  :root{
+    --navy:#1B2A57; --navy2:#26386F; --teal:#1F7A6B; --teal-l:#E3F1EE;
+    --amber:#D9912B; --amber-l:#FBF1E2; --red:#B8433A; --red-l:#F8E6E4;
+    --ink:#1D2433; --mute:#5A6478; --line:#D5DAE4; --paper:#FFFFFF; --bg:#EEF1F6;
+  }
+  *{ box-sizing:border-box; margin:0; padding:0; }
+  html,body{ background:#9aa3b5; }
+  body{ font-family:'Sarabun','Leelawadee UI',sans-serif; color:var(--ink); font-size:11.4px; line-height:1.38;
+        -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  .page{ width:1587px; height:1122px; margin:0 auto; background:var(--bg); padding:14px 16px 12px;
+         display:grid; gap:10px; overflow:hidden;
+         grid-template-columns: 318px 330px 1fr 300px;
+         grid-template-rows: auto 1fr auto;
+         grid-template-areas:
+           "head  head  head  head"
+           "left  env   strat eval"
+           "left  sfas  fin   fin"; }
+  @media print{ html,body{background:none;} .page{margin:0;} }
+
+  h1,h2,h3,.k{ font-family:'Kanit','Leelawadee UI',sans-serif; font-weight:500; }
+  .card{ background:var(--paper); border-radius:10px; border:1px solid var(--line); overflow:hidden; }
+  .sec{ display:flex; align-items:center; gap:7px; background:var(--navy); color:#fff; padding:4px 10px;
+        font-family:'Kanit',sans-serif; font-size:13.5px; font-weight:500; letter-spacing:.2px; }
+  .sec .n{ width:19px; height:19px; border-radius:50%; background:var(--amber); color:#fff; font-size:11px;
+           display:grid; place-items:center; flex:none; font-weight:600; }
+  .sec .en{ font-weight:400; opacity:.72; font-size:11.5px; margin-left:auto; }
+  .body{ padding:7px 10px 8px; }
+  ul{ list-style:none; }
+  li{ position:relative; padding-left:11px; margin:1.5px 0; }
+  li::before{ content:""; position:absolute; left:1px; top:.62em; width:4px; height:4px; border-radius:50%; background:var(--teal); }
+  b{ font-weight:600; }
+
+  /* header */
+  .head{ grid-area:head; display:flex; align-items:center; gap:14px; background:var(--navy); color:#fff;
+         border-radius:12px; padding:9px 16px; position:relative; overflow:hidden; }
+  .head::after{ content:""; position:absolute; right:-40px; top:-60px; width:420px; height:200px;
+         background:repeating-linear-gradient(115deg, rgba(255,255,255,.05) 0 10px, transparent 10px 22px); }
+  .logo{ width:58px; height:58px; border-radius:12px; background:#fff; color:var(--navy); display:grid; place-items:center;
+         font-family:'Kanit'; font-weight:700; font-size:27px; letter-spacing:-1px; flex:none; border:3px solid var(--amber); }
+  .head h1{ font-size:27px; font-weight:600; line-height:1.1; }
+  .head .sub{ font-size:13px; opacity:.85; margin-top:2px; }
+  .head .tag{ margin-left:auto; display:flex; gap:8px; z-index:1; }
+  .pill{ border:1px solid rgba(255,255,255,.35); border-radius:999px; padding:4px 12px; font-size:12px; white-space:nowrap; }
+  .pill.am{ background:var(--amber); border-color:var(--amber); font-weight:600; }
+
+  /* left column */
+  .left{ grid-area:left; display:flex; flex-direction:column; gap:10px; min-height:0; }
+  .kpis{ display:grid; grid-template-columns:1fr 1fr; gap:5px; margin-top:6px; }
+  .kpi{ border-radius:7px; padding:4px 7px; background:var(--bg); }
+  .kpi .v{ font-family:'Kanit'; font-size:17px; font-weight:600; line-height:1.1; color:var(--navy); }
+  .kpi .v small{ font-size:10.5px; font-weight:400; }
+  .kpi .l{ font-size:10.3px; color:var(--mute); line-height:1.25; }
+  .kpi.bad{ background:var(--red-l); } .kpi.bad .v{ color:var(--red); }
+  .kpi.good{ background:var(--teal-l); } .kpi.good .v{ color:var(--teal); }
+  .vision{ font-family:'Kanit'; font-size:13.4px; font-weight:400; color:var(--navy); line-height:1.45;
+           border-left:4px solid var(--amber); padding:2px 0 2px 9px; }
+  .note{ font-size:10px; color:var(--mute); margin-top:4px; }
+  .mis{ counter-reset:m; font-size:12.4px; }
+  .mis li{ padding-left:22px; margin:4px 0; }
+  .mis li::before{ counter-increment:m; content:counter(m); width:16px; height:16px; top:1px; left:0;
+                   background:var(--navy); color:#fff; font-size:10px; display:grid; place-items:center; font-family:'Kanit'; }
+  .mis li b{ color:var(--navy); }
+
+  /* environment */
+  .env{ grid-area:env; display:flex; flex-direction:column; gap:10px; min-height:0; }
+  .env .card{ flex:1; display:flex; flex-direction:column; } .env .card .body{ flex:1; display:flex; flex-direction:column; justify-content:space-around; font-size:12.6px; }
+  .swot-h{ display:flex; justify-content:space-between; align-items:baseline; margin:3px 0 1px; }
+  .swot-h .t{ font-family:'Kanit'; font-weight:500; font-size:12.5px; }
+  .score{ font-family:'Kanit'; font-size:10.5px; border-radius:999px; padding:0 7px; background:var(--navy); color:#fff; }
+  .o .t{ color:var(--teal); } .th .t{ color:var(--red); } .s .t{ color:var(--teal); } .w .t{ color:var(--red); }
+  .code{ font-family:'Kanit'; font-weight:500; font-size:10.5px; border-radius:4px; padding:0 4px; margin-right:3px; color:#fff; }
+  .code.g{ background:var(--teal); } .code.r{ background:var(--red); }
+  .env li{ padding-left:0; } .env li::before{ display:none; }
+  .div{ height:1px; background:var(--line); margin:5px 0; }
+
+  /* sfas */
+  .sfas{ grid-area:sfas; }
+  .sfas .body{ font-size:11.4px; }
+  .sfas-top{ display:flex; gap:6px; margin-bottom:5px; }
+  .chip{ flex:1; border-radius:7px; background:var(--amber-l); padding:3px 6px; text-align:center; }
+  .chip .v{ font-family:'Kanit'; font-weight:600; font-size:16px; color:var(--amber); line-height:1.1; }
+  .chip .l{ font-size:9.8px; color:var(--mute); }
+
+  /* strategy table */
+  .strat{ grid-area:strat; display:flex; flex-direction:column; min-height:0; }
+  .strat table{ flex:1; }
+  table{ border-collapse:collapse; width:100%; }
+  .st th{ background:var(--navy2); color:#fff; font-family:'Kanit'; font-weight:500; font-size:12.5px; padding:4px 8px; text-align:left; }
+  .st td{ border-bottom:1px solid var(--line); padding:5px 8px; vertical-align:top; }
+  .st td.lv{ width:178px; background:#F6F8FB; }
+  .lvl{ font-family:'Kanit'; font-weight:500; color:var(--navy); font-size:12.3px; line-height:1.25; }
+  .lvl-en{ font-size:10px; color:var(--mute); }
+  .stname{ display:inline-block; margin-top:3px; font-family:'Kanit'; font-size:11px; font-weight:500; color:#fff;
+           background:var(--teal); border-radius:5px; padding:1px 6px; }
+  .grp td{ background:var(--amber-l)!important; font-family:'Kanit'; font-weight:500; color:#8A5A12; padding:3px 8px; font-size:12px; }
+  .bud{ float:right; font-family:'Kanit'; font-size:10px; color:var(--amber); border:1px solid var(--amber); border-radius:999px; padding:0 6px; margin-left:6px; }
+  .yr{ font-family:'Kanit'; font-weight:500; color:var(--teal); }
+  .road{ display:grid; grid-template-columns:1fr 1fr 1fr; gap:0; margin-top:5px; }
+  .ph{ position:relative; padding:4px 14px 4px 10px; color:#fff; font-size:10.6px; line-height:1.25;
+       clip-path:polygon(0 0, calc(100% - 10px) 0, 100% 50%, calc(100% - 10px) 100%, 0 100%, 8px 50%); }
+  .ph:first-child{ clip-path:polygon(0 0, calc(100% - 10px) 0, 100% 50%, calc(100% - 10px) 100%, 0 100%); }
+  .ph b{ font-family:'Kanit'; font-weight:600; display:block; font-size:11.4px; }
+  .ph1{ background:var(--navy2); } .ph2{ background:var(--teal); } .ph3{ background:var(--amber); }
+
+  /* evaluation BSC */
+  .eval{ grid-area:eval; display:flex; flex-direction:column; min-height:0; }
+  .eval .body{ display:flex; flex-direction:column; gap:8px; flex:1; }
+  .eval .bsc{ flex:1; font-size:12.6px; } .eval .bsc .c{ padding:7px 10px; } .eval .bsc .tg{ margin:3px 0; }
+  .bsc{ border-radius:8px; border:1px solid var(--line); overflow:hidden; }
+  .bsc h3{ font-size:12.5px; color:#fff; padding:3px 9px; }
+  .bsc .c{ padding:4px 9px 6px; }
+  .bsc .obj{ font-weight:600; color:var(--navy); margin-top:2px; }
+  .bsc .tg{ display:flex; gap:6px; align-items:flex-start; }
+  .bsc .tg .x{ font-family:'Kanit'; font-weight:600; color:var(--amber); white-space:nowrap; font-size:12.5px; min-width:48px; }
+  .b1 h3{ background:var(--navy2);} .b2 h3{ background:var(--teal);} .b3 h3{ background:#5B6B8C;} .b4 h3{ background:var(--amber);}
+
+  /* financials */
+  .fin{ grid-area:fin; display:grid; grid-template-columns: 1fr 350px; }
+  .fin .body{ padding:6px 10px 7px; }
+  .ft th{ font-family:'Kanit'; font-weight:500; font-size:11.5px; background:var(--bg); color:var(--navy); padding:3px 7px; text-align:right; }
+  .ft th:first-child{ text-align:left; }
+  .ft td{ padding:2.5px 7px; text-align:right; border-bottom:1px solid var(--line); font-variant-numeric:tabular-nums; }
+  .ft td:first-child{ text-align:left; color:var(--mute); }
+  .ft tr.em td{ font-weight:700; color:var(--navy); }
+  .ft .act{ background:#F6F8FB; }
+  .neg{ color:var(--red)!important; }
+  .unit{ font-size:10px; color:var(--mute); text-align:right; margin-top:2px; }
+  .chartbox{ border-left:1px solid var(--line); padding:6px 10px 4px; }
+  .chartbox .t{ font-family:'Kanit'; font-weight:500; color:var(--navy); font-size:12.3px; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <header class="head">
+    <div class="logo">PG</div>
+    <div>
+      <h1>บริษัท ประชาอาภรณ์ จำกัด (มหาชน)</h1>
+      <div class="sub">แผนกลยุทธ์ 5 ปี · ผู้ผลิตเสื้อผ้าสำเร็จรูปและสิ่งทอครบวงจร ในเครือสหพัฒน์</div>
+    </div>
+    <div class="tag">
+      <span class="pill">SET : PG</span>
+      <span class="pill">ก่อตั้ง พ.ศ. 2523</span>
+      <span class="pill am">แผนปี พ.ศ. 2569–2573</span>
+    </div>
+  </header>
+
+  <!-- LEFT: situation / vision / mission -->
+  <div class="left">
+    <section class="card">
+      <div class="sec"><span class="n">1</span>สถานการณ์ปัจจุบัน<span class="en">Current Situation</span></div>
+      <div class="body">
+        ผลิตเสื้อผ้าและสิ่งทอครบวงจรตั้งแต่ต้นน้ำถึงปลายน้ำ (OEM/ODM) ให้แบรนด์ชั้นนำ เช่น ARROW, LACOSTE, ELLE, Mizuno
+        ขายในประเทศผ่าน ICC <b>71.49%</b> และส่งออกสหรัฐฯ ยุโรป เอเชีย <b>28.51%</b>
+        ปี 2568 ถูกกดดันจากกำแพงภาษีสหรัฐฯ สงครามราคาจากสินค้าจีน–เวียดนาม และต้นทุนแรงงานสูง ทำให้ผลประกอบการพลิกเป็นขาดทุน
+        แต่ยังมีจุดเด่นด้านสิ่งทอรักษ์โลก (Upcycling ขวด PET, SORONA, ผ้าเบอร์ 5 / COOL MODE)
+        <div class="kpis">
+          <div class="kpi bad"><div class="v">605.20 <small>ลบ.</small></div><div class="l">ยอดขายปี 2568 (ลดลง 21.8%)</div></div>
+          <div class="kpi bad"><div class="v">–5.57 <small>ลบ.</small></div><div class="l">ขาดทุนสุทธิปี 2568</div></div>
+          <div class="kpi"><div class="v">40.12%</div><div class="l">ยอดขายรวมพึ่งพาลูกค้ารายเดียว (ICC)</div></div>
+          <div class="kpi good"><div class="v">158.64 <small>ลบ.</small></div><div class="l">ยอดขายสินค้า Eco (23.77%)</div></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="sec"><span class="n">2</span>วิสัยทัศน์<span class="en">Vision</span></div>
+      <div class="body">
+        <div class="vision">“มุ่งเป็นผู้สร้างสรรค์ผลิตภัณฑ์และบริการสิ่งทอที่มีคุณภาพ ด้วยนวัตกรรมที่ตอบโจทย์ลูกค้าและความรับผิดชอบต่อสิ่งแวดล้อม”</div>
+        <div class="note">ทบทวนใหม่: ปรับคำว่า “เสื้อผ้า” เป็น “สิ่งทอ” เพื่อรองรับการต่อยอดสู่สิ่งทอตกแต่งอาคาร</div>
+      </div>
+    </section>
+
+    <section class="card" style="flex:1">
+      <div class="sec"><span class="n">3</span>พันธกิจ<span class="en">Mission</span></div>
+      <div class="body">
+        <ul class="mis">
+          <li><b>ลูกค้า</b> — พัฒนาผลิตภัณฑ์และบริการให้ตรงความต้องการ ด้วยการออกแบบและผลิตครบวงจร รักษาลูกค้าเดิม ขยายลูกค้าองค์กรรายใหม่</li>
+          <li><b>ประสิทธิภาพ</b> — ปรับปรุงกระบวนการผลิต ใช้เทคโนโลยีที่เหมาะสม บริหารสินค้าคงคลังให้สอดคล้องกับคำสั่งซื้อ</li>
+          <li><b>ธุรกิจใหม่</b> — ต่อยอดความเชี่ยวชาญสู่สิ่งทอตกแต่งอาคาร ร่วมกับพันธมิตร และทดลองตลาดก่อนขยายการลงทุน</li>
+          <li><b>บุคลากร</b> — พัฒนาทักษะและการทำงานร่วมกัน รองรับเทคโนโลยี ความต้องการลูกค้า และธุรกิจใหม่</li>
+          <li><b>ความยั่งยืน</b> — เติบโตอย่างรับผิดชอบ รักษาความมั่นคงทางการเงิน คำนึงถึงพนักงาน ลูกค้า คู่ค้า ผู้ถือหุ้น สังคม และสิ่งแวดล้อม</li>
+        </ul>
+      </div>
+    </section>
+  </div>
+
+  <!-- ENVIRONMENT -->
+  <div class="env">
+    <section class="card">
+      <div class="sec"><span class="n">4</span>สภาพแวดล้อมภายนอก<span class="en">EFAS</span></div>
+      <div class="body">
+        <div class="swot-h o"><span class="t">โอกาส (Opportunities)</span><span class="score">EFAS 3.14</span></div>
+        <ul>
+          <li><span class="code g">O1</span>เทรนด์สินค้ารักษ์โลก (Eco-Friendly)</li>
+          <li><span class="code g">O2</span>ตลาดชุดเครื่องแบบเฉพาะทาง / ชุดการแพทย์โต</li>
+          <li><span class="code g">O3</span>สิทธิประโยชน์ภาษีอาเซียน (ATIGA) ตลาด CLMV</li>
+          <li><span class="code g">O4</span>ช่องทาง Social Commerce (TikTok, Shopee, Lazada)</li>
+          <li><span class="code g">O5</span>ความต้องการบริการ One Stop Service / ODM</li>
+        </ul>
+        <div class="swot-h th"><span class="t">อุปสรรค (Threats)</span></div>
+        <ul>
+          <li><span class="code r">T1</span>กำแพงภาษีสหรัฐฯ 19–36% (Trade War)</li>
+          <li><span class="code r">T2</span>แข่งขันด้านราคา ค่าแรงไทยสูงกว่าคู่แข่ง</li>
+          <li><span class="code r">T3</span>สงครามราคาในตลาดในประเทศ</li>
+          <li><span class="code r">T4</span>พฤติกรรมผู้บริโภคยุค Fast Fashion</li>
+          <li><span class="code r">T5</span>ข้อกำหนดยุโรป ESPR / Digital Product Passport</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="sec"><span class="n">5</span>สภาพแวดล้อมภายใน<span class="en">IFAS</span></div>
+      <div class="body">
+        <div class="swot-h s"><span class="t">จุดแข็ง (Strengths)</span><span class="score">IFAS 3.21</span></div>
+        <ul>
+          <li><span class="code g">S1</span>ผลิตครบวงจร One Stop Service &amp; OEM/ODM 45+ ปี</li>
+          <li><span class="code g">S2</span>ผู้นำนวัตกรรมสิ่งทอรักษ์โลกและฟังก์ชัน</li>
+          <li><span class="code g">S3</span>เครือข่ายพันธมิตรเครือสหพัฒน์</li>
+          <li><span class="code g">S4</span>มาตรฐานสากล ISO 9001 / 14001, GRS, TLS 8001</li>
+          <li><span class="code g">S5</span>ฐานะการเงินมั่นคง สินทรัพย์ 1,511.37 ลบ.</li>
+        </ul>
+        <div class="swot-h w"><span class="t">จุดอ่อน (Weaknesses)</span></div>
+        <ul>
+          <li><span class="code r">W1</span>พึ่งพาลูกค้ารายหลัก ICC 40.12% ของยอดขาย</li>
+          <li><span class="code r">W2</span>โครงสร้างต้นทุนพึ่งพาแรงงานสูง</li>
+          <li><span class="code r">W3</span>สินค้าคงคลัง 337.11 ลบ. ขายเฉลี่ย 184 วัน</li>
+          <li><span class="code r">W4</span>ตลาดส่งออกกระจุกตัวที่สหรัฐฯ</li>
+          <li><span class="code r">W5</span>ศักยภาพ Digital / E-Commerce ยังจำกัด</li>
+        </ul>
+      </div>
+    </section>
+  </div>
+
+  <!-- SFAS -->
+  <section class="card sfas">
+    <div class="sec"><span class="n">6</span>พื้นที่ตรงกลาง<span class="en">SFAS 3.22</span></div>
+    <div class="body">
+      <div class="sfas-top">
+        <div class="chip"><div class="v">0.50</div><div class="l">S1 ผลิตครบวงจร</div></div>
+        <div class="chip"><div class="v">0.50</div><div class="l">O1 เทรนด์ Eco</div></div>
+        <div class="chip"><div class="v">0.45</div><div class="l">S2 นวัตกรรม Eco</div></div>
+      </div>
+      บริษัทฯ ควรใช้จุดแข็งด้านการผลิตครบวงจรและนวัตกรรมสิ่งทอรักษ์โลก รับเทรนด์ Eco เพื่อ<b>ขยายฐานลูกค้า OEM/ODM และลูกค้าองค์กร</b>
+      ลดการพึ่งพา ICC และตลาดสหรัฐฯ ควบคู่กับ<b>ลดสินค้าคงคลังและต้นทุน</b>ด้วยการผลิตตามคำสั่งซื้อและ Semi-Automation
+      เมื่อกำไรและเงินสดพร้อมใน 2–3 ปี จึง<b>ต่อยอดสู่ธุรกิจสิ่งทอตกแต่งอาคาร เริ่มจากผ้าม่าน</b>สำหรับโรงแรมและสำนักงาน
+    </div>
+  </section>
+
+  <!-- STRATEGY + IMPLEMENTATION -->
+  <section class="card strat">
+    <div class="sec"><span class="n">7</span>กลยุทธ์และการนำไปปฏิบัติ<span class="en">Strategy &amp; Implementation</span></div>
+    <table class="st">
+      <thead><tr><th style="width:178px">กลยุทธ์</th><th>การนำไปปฏิบัติ</th></tr></thead>
+      <tbody>
+        <tr>
+          <td class="lv"><div class="lvl">กลยุทธ์ระดับองค์กร</div><div class="lvl-en">Corporate Strategy</div>
+            <span class="stname">Growth Strategy</span></td>
+          <td>
+            เริ่มจาก <b>Horizontal Growth</b> ขยายลูกค้าและตลาดเครื่องนุ่งห่มเดิมผ่าน OEM/ODM ทั้งในและต่างประเทศ
+            แล้วต่อยอดสู่ <b>Concentric Diversification</b> — ธุรกิจสิ่งทอตกแต่งอาคารและเคหะสิ่งทอร่วมกับพันธมิตร
+            <span class="bud">1 ลบ./ปี</span>
+            <div class="road">
+              <div class="ph ph1"><b>2569–2570 · ฟื้นธุรกิจเดิม</b>ขยายลูกค้า ลดสต็อก เพิ่มกำไร–เงินสด</div>
+              <div class="ph ph2"><b>2571 · นำร่องผ้าม่าน</b>ทดลองโครงการร่วมพันธมิตร</div>
+              <div class="ph ph3"><b>2572–2573 · ขยายธุรกิจใหม่</b>ปลอกหมอน ผ้าคลุมเตียง ตามผลจริง</div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="lv"><div class="lvl">กลยุทธ์ระดับธุรกิจ</div><div class="lvl-en">Business Strategy</div>
+            <span class="stname">Differentiation</span></td>
+          <td>สร้างความแตกต่างด้วยคุณภาพ การออกแบบที่เหมาะกับการใช้งาน วัสดุที่มีแหล่งที่มาและใบรับรอง พร้อมบริการออกแบบและผลิตครบวงจร
+            ขายทั้งทางตรงแก่ลูกค้าองค์กรและผ่านผู้จัดจำหน่าย กำหนดราคาตามคุณค่าและต้นทุน<span class="bud">1 ลบ./ปี</span></td>
+        </tr>
+        <tr class="grp"><td colspan="2">กลยุทธ์ระดับหน้าที่ (Functional Strategy)</td></tr>
+        <tr>
+          <td class="lv"><div class="lvl">ด้านการตลาด</div><div class="lvl-en">Marketing Strategy</div></td>
+          <td><span class="yr">69–70</span> หาลูกค้า OEM/ODM และเครื่องแบบองค์กรเพิ่ม เข้าพบลูกค้าเป้าหมาย นำเสนอตัวอย่างสินค้า เก็บข้อมูลใบเสนอราคาและการซื้อซ้ำ ·
+            ศึกษาตลาดผ้าม่าน (โรงแรม สำนักงาน ลูกค้าโครงการ) · <span class="yr">71</span> ทดลองขายผ้าม่าน · <span class="yr">72–73</span> ขยายตลาดและเพิ่มสินค้าตามผลตอบรับ<span class="bud">3 ลบ./ปี</span></td>
+        </tr>
+        <tr>
+          <td class="lv"><div class="lvl">ด้านการเงิน</div><div class="lvl-en">Financial Strategy</div></td>
+          <td><span class="yr">69–70</span> ระบบรายงานต้นทุนและเงินสดแยกตามลูกค้า/กลุ่มสินค้า ติดตามการเก็บหนี้ ลดเงินทุนจมในสต็อก ·
+            <span class="yr">71</span> กำหนดงบทดลองผ้าม่าน เงินมัดจำและงวดรับชำระ · <span class="yr">72–73</span> ลงทุนเพิ่มตามผลดำเนินงานและเงินสดจริง<span class="bud">1 ลบ./ปี</span></td>
+        </tr>
+        <tr>
+          <td class="lv"><div class="lvl">ด้านการวิจัยและพัฒนา</div><div class="lvl-en">R&amp;D Strategy</div></td>
+          <td><span class="yr">69</span> พัฒนาเครื่องนุ่งห่มร่วมกับลูกค้าเดิม · <span class="yr">70</span> พัฒนาต้นแบบผ้าม่านและคัดเลือกพันธมิตร ·
+            <span class="yr">71</span> ทดสอบให้ผ่านข้อกำหนดก่อนขาย · <span class="yr">72–73</span> ต่อยอดเคหะสิ่งทอที่ใช้วัสดุ/กระบวนการร่วมกันได้<span class="bud">2 ลบ./ปี</span></td>
+        </tr>
+        <tr>
+          <td class="lv"><div class="lvl">ด้านการดำเนินงาน</div><div class="lvl-en">Operations Strategy</div></td>
+          <td><span class="yr">69–70</span> วางแผนจัดซื้อ–ผลิตตามคำสั่งซื้อ (Make-to-Order) ลดสต็อกเก่า แก้ขั้นตอนที่ล่าช้า/ของเสียสูง ติดตั้ง Semi-Automation เฉพาะจุดที่คุ้มค่า ·
+            <span class="yr">71</span> ทดลองผลิตและติดตั้งผ้าม่านร่วมพันธมิตร · <span class="yr">72–73</span> เพิ่มกำลังผลิตตามคำสั่งซื้อจริง<span class="bud">4 ลบ./ปี</span></td>
+        </tr>
+        <tr>
+          <td class="lv"><div class="lvl">ด้านทรัพยากรมนุษย์</div><div class="lvl-en">HRM Strategy</div></td>
+          <td><span class="yr">69</span> อบรมทักษะขาย B2B การใช้ข้อมูลลูกค้า และการผลิต · <span class="yr">70</span> ตั้งทีมข้ามสายงาน (ตลาด R&amp;D ผลิต การเงิน) เตรียมธุรกิจใหม่ ·
+            <span class="yr">71</span> ทำงานร่วมพันธมิตรในโครงการนำร่อง · <span class="yr">72–73</span> ทำคู่มือ ถ่ายทอดความรู้ รับบุคลากรเฉพาะทาง<span class="bud">1 ลบ./ปี</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- EVALUATION (BSC) -->
+  <section class="card eval">
+    <div class="sec"><span class="n">8</span>การประเมินผล<span class="en">Balanced Scorecard</span></div>
+    <div class="body">
+      <div class="bsc b1"><h3 class="k">ด้านการเงิน</h3><div class="c">
+        <div class="tg"><span class="x">≥ 5%</span><span>รายได้จากการขายเติบโตเฉลี่ยต่อปีตลอดแผน</span></div>
+        <div class="tg"><span class="x">+2 pp</span><span>อัตรากำไรขั้นต้นปี 2573 สูงกว่าปี 2568</span></div>
+      </div></div>
+      <div class="bsc b2"><h3 class="k">ด้านลูกค้า</h3><div class="c">
+        <div class="tg"><span class="x">≥ 80%</span><span>ลูกค้าปีก่อนกลับมาสั่งซื้อซ้ำต่อปี</span></div>
+        <div class="tg"><span class="x">≥ 5 ราย</span><span>ลูกค้าเครื่องนุ่งห่มใหม่ต่อปี</span></div>
+        <div class="tg"><span class="x">≥ 3 ราย</span><span>ลูกค้าทดลองผ้าม่านในปี 2571</span></div>
+      </div></div>
+      <div class="bsc b3"><h3 class="k">ด้านกระบวนการภายใน</h3><div class="c">
+        <div class="tg"><span class="x">–15%</span><span>ระยะเวลาถือครองสินค้าคงคลังภายในปี 2570 (เทียบปี 2568)</span></div>
+        <div class="tg"><span class="x">≥ 95%</span><span>ส่งมอบครบและตรงเวลา ตั้งแต่ปี 2570</span></div>
+      </div></div>
+      <div class="bsc b4"><h3 class="k">ด้านนวัตกรรมและการเรียนรู้</h3><div class="c">
+        <div class="tg"><span class="x">Q2/71</span><span>ต้นแบบผ้าม่านผ่านข้อกำหนดการใช้งานก่อนทดลองขาย</span></div>
+        <div class="tg"><span class="x">≥ 80%</span><span>พนักงานผ่านการทดสอบหลังอบรมแต่ละหลักสูตร</span></div>
+      </div></div>
+    </div>
+  </section>
+
+  <!-- FINANCIALS -->
+  <section class="card fin">
+    <div>
+      <div class="sec"><span class="n">9</span>ผลการดำเนินงานและประมาณการ<span class="en">งบกำไรขาดทุน</span></div>
+      <div class="body">
+        <table class="ft">
+          <thead><tr><th>รายการ</th><th class="act">2568*</th><th>2569</th><th>2570</th><th>2571</th><th>2572</th><th>2573</th></tr></thead>
+          <tbody>
+            <tr><td>รายได้จากการขาย</td><td class="act">605.20</td><td>570.10</td><td>592.90</td><td>616.62</td><td>641.28</td><td>666.94</td></tr>
+            <tr class="em"><td>รวมรายได้</td><td class="act">667.34</td><td>629.64</td><td>652.90</td><td>677.12</td><td>702.28</td><td>728.44</td></tr>
+            <tr><td>ต้นทุนขาย</td><td class="act">475.67</td><td>451.40</td><td>465.43</td><td>480.96</td><td>497.00</td><td>513.54</td></tr>
+            <tr><td>ค่าใช้จ่ายในการขายและบริหาร</td><td class="act">178.08</td><td>152.42</td><td>155.00</td><td>158.00</td><td>162.00</td><td>166.00</td></tr>
+            <tr><td>กำไร (ขาดทุน) ก่อนต้นทุนทางการเงินและภาษี</td><td class="act neg">(5.91)</td><td>25.82</td><td>32.47</td><td>38.16</td><td>43.29</td><td>48.90</td></tr>
+            <tr class="em"><td>กำไร (ขาดทุน) สุทธิ</td><td class="act neg">(5.56)</td><td>18.66</td><td>24.06</td><td>28.69</td><td>32.87</td><td>37.44</td></tr>
+          </tbody>
+        </table>
+        <div class="unit">* ปี 2568 ตัวเลขจริง · 2569–2573 ประมาณการ · หน่วย : ล้านบาท</div>
+      </div>
+    </div>
+    <div class="chartbox">
+      <div class="t">ประมาณการรายได้จากการขายและกำไรสุทธิ</div>
+      <svg viewBox="0 0 330 150" width="330" height="150" font-family="Kanit, sans-serif">
+        <!-- baseline scale: 500..700 → bar height -->
+        <line x1="8" y1="104" x2="322" y2="104" stroke="#D5DAE4"/>
+        <g font-size="10" text-anchor="middle">
+          <!-- x centers: 34, 86, 138, 190, 242, 294 ; h = (v-480)*0.35 -->
+          <rect x="17" y="60.3" width="34" height="43.7" rx="3" fill="#8C97B0"/><text x="34" y="55" fill="#1B2A57">605.2</text>
+          <rect x="69" y="72.6" width="34" height="31.4" rx="3" fill="#26386F"/><text x="86" y="67" fill="#1B2A57">570.1</text>
+          <rect x="121" y="64.6" width="34" height="39.4" rx="3" fill="#26386F"/><text x="138" y="59" fill="#1B2A57">592.9</text>
+          <rect x="173" y="56.3" width="34" height="47.7" rx="3" fill="#26386F"/><text x="190" y="51" fill="#1B2A57">616.6</text>
+          <rect x="225" y="47.6" width="34" height="56.4" rx="3" fill="#26386F"/><text x="242" y="42" fill="#1B2A57">641.3</text>
+          <rect x="277" y="38.7" width="34" height="65.3" rx="3" fill="#1F7A6B"/><text x="294" y="33" fill="#1F7A6B" font-weight="600">666.9</text>
+          <g fill="#5A6478" font-size="10"><text x="34" y="116">2568</text><text x="86" y="116">2569</text><text x="138" y="116">2570</text><text x="190" y="116">2571</text><text x="242" y="116">2572</text><text x="294" y="116">2573</text></g>
+          <g font-size="10" font-weight="600">
+            <rect x="15" y="123" width="38" height="16" rx="8" fill="#F8E6E4"/><text x="34" y="134.5" fill="#B8433A">–5.6</text>
+            <rect x="67" y="123" width="38" height="16" rx="8" fill="#E3F1EE"/><text x="86" y="134.5" fill="#1F7A6B">18.7</text>
+            <rect x="119" y="123" width="38" height="16" rx="8" fill="#E3F1EE"/><text x="138" y="134.5" fill="#1F7A6B">24.1</text>
+            <rect x="171" y="123" width="38" height="16" rx="8" fill="#E3F1EE"/><text x="190" y="134.5" fill="#1F7A6B">28.7</text>
+            <rect x="223" y="123" width="38" height="16" rx="8" fill="#E3F1EE"/><text x="242" y="134.5" fill="#1F7A6B">32.9</text>
+            <rect x="275" y="123" width="38" height="16" rx="8" fill="#E3F1EE"/><text x="294" y="134.5" fill="#1F7A6B">37.4</text>
+          </g>
+        </g>
+        <text x="322" y="148" font-size="9" fill="#5A6478" text-anchor="end">แท่ง = ยอดขาย · ป้าย = กำไรสุทธิ (ลบ.)</text>
+      </svg>
+    </div>
+  </section>
+
+</div>
+</body>
+</html>
